@@ -1,0 +1,3261 @@
+.hp-acontent{
+    background-color: #0d1a26;
+    height: 100%;
+}
+.hp-body-content{
+    height: 100%;
+    width: 100%;
+}
+.hp-college-head{
+    position: relative;
+    width: 100%;
+    height: 100px;
+    left: -5px;
+    top: -8px;
+}
+.college-details{
+    position: relative;
+    width: 101.3%;
+    height: 100px;
+    background-color: rgb(24, 37, 52);
+    left: -5px;
+}
+.college-detais-inner{
+    position: relative;
+    width: 1340px;
+    height: 100px;
+}
+.college-logo{
+    position: relative;
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+    top: 5px;
+    left: 40px;
+}
+.colloge-logo-img{
+    position: relative;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+}
+.college-name{
+    position: relative;
+    width: 800px;
+    height: 60px;
+    top: -93px;
+    left: 200px;
+}
+.college-name-details{
+    position: relative;
+    width: 800px;
+    height: 60px;
+    font-family: Andale Mono, monospace;
+    font-size: 180%;
+    font-weight: 600;
+    color: #999999;
+}
+.sticky-header{
+    position: sticky;
+    top: 0;
+    width: 100%;
+    left: -8px;
+    z-index: 6;
+}
+.college-details-container{
+    position: relative;
+    top: -8px;
+    width: 100%;
+}
+.course-image{
+    position: relative;
+    width: 110px;
+    height: 75px;
+    top: 6px;
+    left: 30px;
+}
+.course-image-detail{
+    position: relative;
+    width: 110px;
+    height: 75px;
+}
+.mechanical-img{
+    position: relative;
+    width: 110px;
+    height: 70px;
+}
+.college-detail-page-details{
+    position: relative;
+    width: 100%;
+    height: 75px;
+}
+.course-year-background{
+    background-color: rgb(21, 32, 43);
+    position: relative;
+    width: 101.22%;
+    height: 75px;
+    left: -8px;
+}
+.college-sub-year{
+    position: relative;
+    width: 480px;
+    height: 40px;
+    left: 150px;
+    top: -85px;
+}
+.college-subject{
+    grid-area: course-name;
+    position: relative;
+    width: 400px;
+    height: 40px;
+}
+.college-year{
+    grid-area: course-year;
+    position: relative;
+    width: 80px;
+    height: 40px;
+    left: 390px;
+    top: -70px;
+}
+.detail-sub-heading{
+    position: relative;
+    font-family: 'Comic Neue', cursive;
+    color: white;
+    font-size: 160%;
+    text-align: center;
+    height: 40px;
+    width: 400px;
+}
+.detail-year-heading{
+    position: relative;
+    font-family: 'Comic Neue', cursive;
+    color: white;
+    font-size: 160%;
+    text-align: center;
+    width: 80px;
+    height: 50px;
+}
+.hp-college-nav{
+    background-color: rgb(21, 32, 43);
+    position: sticky;
+    width: 100.6%;
+    height: 60px;
+    border-radius: 5px;
+}
+.hp-college-nav:focus{
+    outline: none;
+}
+.hp-college-nav-background{
+    background-color: rgb(21, 32, 43);
+    position: relative;;
+    width: 100.6%;
+    height: 60px;
+    left: -9px;
+    box-shadow: 0px 1.5px 0px 0px #668cff;
+}
+.college-courses{
+    position: relative;
+    display: grid;
+    width: 1212px;
+    height: 50px;
+    grid-template-areas:
+    'course1 course2 course3 course4' ;
+    left: 80px;
+}
+.college-course-1{
+    grid-area: course1;
+    width: 320px;
+    height: 50px;
+    position: relative;
+    top: 5px;
+}
+.college-course-1-detail{
+    position: relative;
+    width: 150px;
+    height: 50px;
+    top: 0px;
+}
+.college-course-1-name{
+    position: relative;
+    width: 150px;
+    height: 50px;
+    text-decoration: none;   
+    border-radius: 10px;    
+}
+.college-course-1-name:focus{
+    outline: none;
+}
+.college-first-course{
+    position: relative;
+    color: black;
+    text-align: center;
+    font-family: 'Comic Neue', cursive;
+    font-size: 160%;
+    top: -15px;
+}
+.college-course-2{
+    grid-area: course2;
+    width: 320px;
+    height: 50px;
+    position: relative;
+    top: 5px;
+}
+.college-course-2-detail{
+    position: relative;
+    width: 150px;
+    height: 50px;
+}
+.college-course-2-name{
+    position: relative;
+    width: 150px;
+    height: 50px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.college-course-2-name:focus{
+    outline: none;
+}
+.college-second-course{
+    position: relative;
+    color: black;
+    text-align: center;
+    top: 15px;
+    font-family: 'Comic Neue', cursive;
+    font-size: 160%;
+    top: -15px;
+}
+.college-course-3{
+    grid-area: course3;
+    width: 320px;
+    height: 50px;
+    position: relative;
+    top: 5px;
+}
+.college-course-3-detail{
+    position: relative;
+    width: 150px;
+    height: 50px;
+}
+.college-course-3-name{
+    position: relative;
+    width: 150px;
+    height: 50px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.college-course-3-name:focus{
+    outline: none;
+}
+.college-third-course{
+    position: relative;
+    color: black;
+    text-align: center;
+    top: 15px;
+    font-family: 'Comic Neue', cursive;
+    font-size: 160%;
+    top: -15px;
+}
+.college-course-4{
+    grid-area: course4;
+    width: 250px;
+    height: 50px;
+    position: relative;
+    top: 5px;
+}
+.college-course-4-detail{
+    position: relative;
+    width: 150px;
+    height: 50px;
+}
+.college-course-4-name{
+    position: relative;
+    width: 150px;
+    height: 50px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.college-course-4-name:focus{
+    outline: none;
+}
+.college-fourth-course{
+    position: relative;
+    color: black;
+    text-align: center;
+    top: 15px;
+    font-family: 'Comic Neue', cursive;
+    font-size: 160%;
+    top: -15px;
+}
+.college-course-background{
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+    position: relative;
+    background-color: #e6e6e6;
+}
+.college-course-content{
+    position: relative;
+    width: 1330px;
+    border-radius: 20px;
+    z-index: 5;
+}
+.college-courses-content-main{
+    position: relative;
+    width: 1250px;
+    background-color: #e6e6e6;
+    box-shadow: 2px 2px 5px 5px #999999;
+    border-radius: 30px;
+    left: 30px;
+}
+.college-content-notes-1{
+    position: relative;
+    width: 1250px;
+    height: 243px;
+    left: 30px;
+}
+.collge-notes-1{
+    position: relative;
+    width: 1250px;
+    height: 243px;
+}
+.college-notes-content-1{
+    position: relative;
+    width: 1250px;
+    height: 243px;
+}
+.notes-content-1{
+    position: relative;
+    width: 1250px;
+    height: 243px;
+}
+.notes-main-1{
+    position: relative;
+    width: 1250px;
+    height: 243px;
+}
+.notes-list-1{
+    position: relative;
+    width: 1200px;
+    height: 243px;
+    list-style: none;
+    display: grid;
+    grid-template-areas:
+    'notes1-1 notes2-1 notes3-1 notes4-1' ;
+}
+.clg-notes1-1{
+    position: relative;
+    width: 200px;
+    height: 243px;
+    border-radius: 20px;
+    grid-area: notes1-1;
+}
+.notes1-1{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    z-index: 5;
+    top: 20px;
+}
+.list1-general > a{
+    display: inline;
+}
+.list1-note1-link{
+    position: relative;
+    width: 100px;
+    height: 200px;
+    border-radius: 20px;
+}
+.list1-note1-img{
+    position: relative;
+    height: 150px;
+    width: 200px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.embeded-list1-note1{
+    position: relative;
+    width: 200px;
+    height: 50px;
+    background-color: #006666;
+    text-align: center;
+    font-family: 'Comic Neue', cursive;
+    font-size: 15px;
+    top: -25px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.notes-pdf1-1{
+    display: none;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.9);
+    z-index: 7;
+}
+.notes-pdf1-1-inner{
+    width: 60%;
+    height: 100%;
+    position: relative;
+    left: 20%;
+    top: 0%;
+    background-color: #d6d6d6;
+    z-index: 7;
+}
+.clg-notes2-1{
+    position: relative;
+    width: 200px;
+    height: 243px;
+    border-radius: 20px;
+    grid-area: notes2-1;
+}
+.notes2-1{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    top: 20px;
+}
+.list1-note2-link{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.list1-note2-img{
+    position: relative;
+    height: 150px;
+    width: 200px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.embeded-list1-note2{
+    position: relative;
+    width: 200px;
+    height: 50px;
+    background-color: #006666;
+    text-align: center;
+    top: -32px;
+    font-family: 'Comic Neue', cursive;
+    font-size: 15px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.notes-pdf2-1{
+    display: none;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+.notes-pdf2-1-inner{
+    width: 60%;
+    height: 100%;
+    position: relative;
+    left: 20%;
+    top: 0%;
+    background-color: #d6d6d6;
+}
+.clg-notes3-1{
+    position: relative;
+    width: 200px;
+    height: 243px;
+    border-radius: 20px;
+    grid-area: notes3-1;
+}
+.notes3-1{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    top: 20px;
+}
+.list1-note3-link{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.list1-note3-img{
+    position: relative;
+    height: 150px;
+    width: 200px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.embeded-list1-note3{
+    position: relative;
+    width: 200px;
+    height: 50px;
+    background-color: #006666;
+    text-align: center;
+    top: -32px;
+    font-family: 'Comic Neue', cursive;
+    font-size: 15px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.notes-pdf3-1{
+    display: none;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+.notes-pdf3-1-inner{
+    width: 60%;
+    height: 100%;
+    position: relative;
+    left: 20%;
+    top: 0%;
+    background-color: #d6d6d6;
+}
+.clg-notes4-1{
+    position: relative;
+    width: 200px;
+    height: 243px;
+    border-radius: 20px;
+    grid-area: notes4-1;
+}
+.notes4-1{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    top: 20px;
+}
+.list1-note4-link{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.list1-note4-img{
+    position: relative;
+    height: 150px;
+    width: 200px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.embeded-list1-note4{
+    position: relative;
+    width: 200px;
+    height: 50px;
+    background-color: #006666;
+    text-align: center;
+    top: -32px;
+    font-family: 'Comic Neue', cursive;
+    font-size: 15px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.notes-pdf4-1{
+    display: none;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+.notes-pdf4-1-inner{
+    width: 60%;
+    height: 100%;
+    position: relative;
+    left: 20%;
+    top: 0%;
+    background-color: #d6d6d6;
+}
+.college-content-notes-2{
+    position: relative;
+    width: 1250px;
+    left: 30px;
+}
+.collge-notes-2{
+    position: relative;
+    width: 1250px;
+}
+.college-notes-content-2{
+    position: relative;
+    width: 1250px;
+}
+.notes-content-2{
+    position: relative;
+    width: 1250px;
+}
+.notes-main-2{
+    position: relative;
+    width: 1250px;
+}
+.notes-list-2{
+    position: relative;
+    width: 1200px;
+    height: 243px;
+    display: grid;
+    list-style: none;
+    grid-template-areas:
+    'notes1-2 notes2-2 notes3-2 notes4-2' ;
+    background-color: inherit;
+}
+.clg-notes1-2{
+    position: relative;
+    width: 200px;
+    height: 243px;
+    border-radius: 20px;
+    grid-area: notes1-2;
+}
+.notes1-2{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    top: 20px;
+}
+.list2-general > a{
+    display: inline;
+}
+.list2-note1-link{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.list2-note1-img{
+    position: relative;
+    height: 150px;
+    width: 200px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.embeded-list2-note1{
+    position: relative;
+    width: 200px;
+    height: 50px;
+    background-color: #006666;
+    text-align: center;
+    top: -32px;
+    font-family: 'Comic Neue', cursive;
+    font-size: 15px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.notes-pdf1-2{
+    display: none;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+.notes-pdf1-2-inner{
+    width: 60%;
+    height: 100%;
+    position: relative;
+    left: 20%;
+    top: 0%;
+    background-color: #d6d6d6;
+}
+.clg-notes2-2{
+    position: relative;
+    width: 200px;
+    height: 243px;
+    border-radius: 20px;
+    grid-area: notes2-2;
+}
+.notes2-2{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    top: 20px;
+}
+.list2-note2-link{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.list2-note2-img{
+    position: relative;
+    height: 150px;
+    width: 200px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.embeded-list2-note2{
+    position: relative;
+    width: 200px;
+    height: 50px;
+    background-color: #006666;
+    text-align: center;
+    top: -25px;
+    font-family: 'Comic Neue', cursive;
+    font-size: 15px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.notes-pdf2-2{
+    display: none;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+.notes-pdf2-2-inner{
+    width: 60%;
+    height: 100%;
+    position: relative;
+    left: 20%;
+    top: 0%;
+    background-color: #d6d6d6;
+}
+.clg-notes3-2{
+    position: relative;
+    width: 200px;
+    height: 243px;
+    border-radius: 20px;
+    grid-area: notes3-2;
+}
+.notes3-2{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    top: 20px;
+}
+.list2-note3-link{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.list2-note3-img{
+    position: relative;
+    height: 150px;
+    width: 200px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.embeded-list2-note3{
+    position: relative;
+    width: 200px;
+    height: 50px;
+    background-color: #006666;
+    text-align: center;
+    top: -32px;
+    font-family: 'Comic Neue', cursive;
+    font-size: 15px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.notes-pdf3-2{
+    display: none;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+.notes-pdf3-2-inner{
+    width: 60%;
+    height: 100%;
+    position: relative;
+    left: 20%;
+    top: 0%;
+    background-color: #d6d6d6;
+}
+.clg-notes4-2{
+    position: relative;
+    width: 200px;
+    height: 243px;
+    border-radius: 20px;
+    grid-area: notes4-2;
+}
+.notes4-2{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    top: 20px;
+}
+.list2-note4-link{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.list2-note4-img{
+    position: relative;
+    height: 150px;
+    width: 200px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.embeded-list2-note4{
+    position: relative;
+    width: 200px;
+    height: 50px;
+    background-color: #006666;
+    text-align: center;
+    top: -32px;
+    font-family: 'Comic Neue', cursive;
+    font-size: 15px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.notes-pdf4-2{
+    display: none;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+.notes-pdf4-2-inner{
+    width: 60%;
+    height: 100%;
+    position: relative;
+    left: 20%;
+    top: 0%;
+    background-color: #d6d6d6;
+}
+.college-content-notes-3{
+    position: relative;
+    width: 1250px;
+    left: 30px;
+}
+.collge-notes-3{
+    position: relative;
+    width: 1250px;
+}
+.college-notes-content-3{
+    position: relative;
+    width: 1250px;
+}
+.notes-content-3{
+    position: relative;
+    width: 1250px;
+}
+.notes-main-3{
+    position: relative;
+    width: 1250px;
+}
+.notes-list-3{
+    position: relative;
+    width: 1200px;
+    height: 243px;
+    display: grid;
+    list-style: none;
+    grid-template-areas:
+    'notes1-3 notes2-3 notes3-3 notes4-3' ;
+    background-color: inherit;
+}
+.clg-notes1-3{
+    position: relative;
+    width: 200px;
+    height: 243px;
+    border-radius: 20px;
+    grid-area: notes1-3;
+}
+.notes1-3{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    top: 20px;
+}
+.list3-general > a{
+    display: inline;
+}
+.list3-note1-link{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.list3-note1-img{
+    position: relative;
+    height: 150px;
+    width: 200px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.embeded-list3-note1{
+    position: relative;
+    width: 200px;
+    height: 50px;
+    background-color: #006666;
+    text-align: center;
+    top: -32px;
+    font-family: 'Comic Neue', cursive;
+    font-size: 15px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.notes-pdf1-3{
+    display: none;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+.notes-pdf1-3-inner{
+    width: 60%;
+    height: 100%;
+    position: relative;
+    left: 20%;
+    top: 0%;
+    background-color: #d6d6d6;
+}
+.clg-notes2-3{
+    position: relative;
+    width: 200px;
+    height: 243px;
+    border-radius: 20px;
+    grid-area: notes2-3;
+}
+.notes2-3{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    top: 20px;
+}
+.list3-note2-link{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.list3-note2-img{
+    position: relative;
+    height: 150px;
+    width: 200px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.embeded-list3-note2{
+    position: relative;
+    width: 200px;
+    height: 50px;
+    background-color: #006666;
+    text-align: center;
+    top: -32px;
+    font-family: 'Comic Neue', cursive;
+    font-size: 15px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.notes-pdf2-3{
+    display: none;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+.notes-pdf2-3-inner{
+    width: 60%;
+    height: 100%;
+    position: relative;
+    left: 20%;
+    top: 0%;
+    background-color: #d6d6d6;
+}
+.clg-notes3-3{
+    position: relative;
+    width: 200px;
+    height: 243px;
+    border-radius: 20px;
+    grid-area: notes3-3;
+}
+.notes3-3{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    top: 20px;
+}
+.list3-note3-link{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.list3-note3-img{
+    position: relative;
+    height: 150px;
+    width: 200px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.embeded-list3-note3{
+    position: relative;
+    width: 200px;
+    height: 50px;
+    background-color: #006666;
+    text-align: center;
+    top: -32px;
+    font-family: 'Comic Neue', cursive;
+    font-size: 15px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.notes-pdf3-3{
+    display: none;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+.notes-pdf3-3-inner{
+    width: 60%;
+    height: 100%;
+    position: relative;
+    left: 20%;
+    top: 0%;
+    background-color: #d6d6d6;
+}
+.clg-notes4-3{
+    position: relative;
+    width: 200px;
+    height: 243px;
+    border-radius: 20px;
+    grid-area: notes4-3;
+}
+.notes4-3{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    top: 20px;
+}
+.list3-note4-link{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.list3-note4-img{
+    position: relative;
+    height: 150px;
+    width: 200px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.embeded-list3-note4{
+    position: relative;
+    width: 200px;
+    height: 50px;
+    background-color: #006666;
+    text-align: center;
+    top: -32px;
+    font-family: 'Comic Neue', cursive;
+    font-size: 15px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.notes-pdf4-3{
+    display: none;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+.notes-pdf4-3-inner{
+    width: 60%;
+    height: 100%;
+    position: relative;
+    left: 20%;
+    top: 0%;
+    background-color: #d6d6d6;
+}
+.college-content-notes-4{
+    position: relative;
+    width: 1250px;
+    left: 30px;
+}
+.collge-notes-4{
+    position: relative;
+    width: 1250px;
+}
+.college-notes-content-4{
+    position: relative;
+    width: 1250px;
+}
+.notes-content-4{
+    position: relative;
+    width: 1250px;
+}
+.notes-main-4{
+    position: relative;
+    width: 1250px;
+}
+.notes-list-4{
+    position: relative;
+    width: 1200px;
+    height: 243px;
+    display: grid;
+    list-style: none;
+    grid-template-areas:
+    'notes1-4 notes2-4 notes3-4 notes4-4' ;
+    background-color: inherit;
+}
+.clg-notes1-4{
+    position: relative;
+    width: 200px;
+    height: 243px;
+    border-radius: 20px;
+    grid-area: notes1-4;
+}
+.notes1-4{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    top: 20px;
+}
+.list4-general > a{
+    display: inline;
+}
+.list4-note1-link{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.list4-note1-img{
+    position: relative;
+    height: 150px;
+    width: 200px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.embeded-list4-note1{
+    position: relative;
+    width: 200px;
+    height: 50px;
+    background-color: #006666;
+    text-align: center;
+    top: -32px;
+    font-family: 'Comic Neue', cursive;
+    font-size: 15px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.notes-pdf1-4{
+    display: none;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+.notes-pdf1-4-inner{
+    width: 60%;
+    height: 100%;
+    position: relative;
+    left: 20%;
+    top: 0%;
+    background-color: #d6d6d6;
+}
+.clg-notes2-4{
+    position: relative;
+    width: 200px;
+    height: 243px;
+    border-radius: 20px;
+    grid-area: notes2-4;
+}
+.notes2-4{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    top: 20px;
+}
+.list4-note2-link{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.list4-note2-img{
+    position: relative;
+    height: 150px;
+    width: 200px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.embeded-list4-note2{
+    position: relative;
+    width: 200px;
+    height: 50px;
+    background-color: #006666;
+    text-align: center;
+    top: -32px;
+    font-family: 'Comic Neue', cursive;
+    font-size: 15px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.notes-pdf2-4{
+    display: none;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+.notes-pdf2-4-inner{
+    width: 60%;
+    height: 100%;
+    position: relative;
+    left: 20%;
+    top: 0%;
+    background-color: #d6d6d6;
+}
+.clg-notes3-4{
+    position: relative;
+    width: 200px;
+    height: 243px;
+    border-radius: 20px;
+    grid-area: notes3-4;
+}
+.notes3-4{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    top: 20px;
+}
+.list4-note3-link{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.list4-note3-img{
+    position: relative;
+    height: 150px;
+    width: 200px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.embeded-list4-note3{
+    position: relative;
+    width: 200px;
+    height: 50px;
+    background-color: #006666;
+    text-align: center;
+    top: -32px;
+    font-family: 'Comic Neue', cursive;
+    font-size: 15px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.notes-pdf3-4{
+    display: none;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+.notes-pdf3-4-inner{
+    width: 60%;
+    height: 100%;
+    position: relative;
+    left: 20%;
+    top: 0%;
+    background-color: #d6d6d6;
+}
+.clg-notes4-4{
+    position: relative;
+    width: 200px;
+    height: 243px;
+    border-radius: 20px;
+    grid-area: notes4-4;
+}
+.notes4-4{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    top: 20px;
+}
+.list4-note4-link{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.list4-note4-img{
+    position: relative;
+    height: 150px;
+    width: 200px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.embeded-list4-note4{
+    position: relative;
+    width: 200px;
+    height: 50px;
+    background-color: #006666;
+    text-align: center;
+    top: -32px;
+    font-family: 'Comic Neue', cursive;
+    font-size: 15px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.notes-pdf4-4{
+    display: none;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+.notes-pdf4-4-inner{
+    width: 60%;
+    height: 100%;
+    position: relative;
+    left: 20%;
+    top: 0%;
+    background-color: #d6d6d6;
+}
+.college-content-notes-5{
+    position: relative;
+    width: 1250px;
+    left: 30px;
+}
+.collge-notes-5{
+    position: relative;
+    width: 1250px;
+}
+.college-notes-content-5{
+    position: relative;
+    width: 1250px;
+}
+.notes-content-5{
+    position: relative;
+    width: 1250px;
+}
+.notes-main-5{
+    position: relative;
+    width: 1250px;
+}
+.notes-list-5{
+    position: relative;
+    width: 1200px;
+    height: 243px;
+    display: grid;
+    list-style: none;
+    grid-template-areas:
+    'notes1-5 notes2-5 notes3-5 notes4-5' ;
+    background-color: inherit;
+}
+.clg-notes1-5{
+    position: relative;
+    width: 200px;
+    height: 243px;
+    border-radius: 20px;
+    grid-area: notes1-5;
+}
+.notes1-5{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    top: 20px;
+}
+.list5-general > a{
+    display: inline;
+}
+.list5-note1-link{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.list5-note1-img{
+    position: relative;
+    height: 150px;
+    width: 200px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.embeded-list5-note1{
+    position: relative;
+    width: 200px;
+    height: 50px;
+    background-color: #006666;
+    text-align: center;
+    top: -32px;
+    font-family: 'Comic Neue', cursive;
+    font-size: 15px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.notes-pdf1-5{
+    display: none;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+.notes-pdf1-5-inner{
+    width: 60%;
+    height: 100%;
+    position: relative;
+    left: 20%;
+    top: 0%;
+    background-color: #d6d6d6;
+}
+.clg-notes2-5{
+    position: relative;
+    width: 200px;
+    height: 243px;
+    border-radius: 20px;
+    grid-area: notes2-5;
+}
+.notes2-5{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    top: 20px;
+}
+.list5-note2-link{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.list5-note2-img{
+    position: relative;
+    height: 150px;
+    width: 200px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.embeded-list5-note2{
+    position: relative;
+    width: 200px;
+    height: 50px;
+    background-color: #006666;
+    text-align: center;
+    top: -32px;
+    font-family: 'Comic Neue', cursive;
+    font-size: 15px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.notes-pdf2-5{
+    display: none;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+.notes-pdf2-5-inner{
+    width: 60%;
+    height: 100%;
+    position: relative;
+    left: 20%;
+    top: 0%;
+    background-color: #d6d6d6;
+}
+.clg-notes3-5{
+    position: relative;
+    width: 200px;
+    height: 243px;
+    border-radius: 20px;
+    grid-area: notes3-5;
+}
+.notes3-5{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    top: 20px;
+}
+.list5-note3-link{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.list5-note3-img{
+    position: relative;
+    height: 150px;
+    width: 200px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.embeded-list5-note3{
+    position: relative;
+    width: 200px;
+    height: 50px;
+    background-color: #006666;
+    text-align: center;
+    top: -32px;
+    font-family: 'Comic Neue', cursive;
+    font-size: 15px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.notes-pdf3-5{
+    display: none;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+.notes-pdf3-5-inner{
+    width: 60%;
+    height: 100%;
+    position: relative;
+    left: 20%;
+    top: 0%;
+    background-color: #d6d6d6;
+}
+.clg-notes4-5{
+    position: relative;
+    width: 200px;
+    height: 243px;
+    border-radius: 20px;
+    grid-area: notes4-5;
+}
+.notes4-5{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    top: 20px;
+}
+.list5-note4-link{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.list5-note4-img{
+    position: relative;
+    height: 150px;
+    width: 200px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.embeded-list5-note4{
+    position: relative;
+    width: 200px;
+    height: 50px;
+    background-color: #006666;
+    text-align: center;
+    top: -32px;
+    font-family: 'Comic Neue', cursive;
+    font-size: 15px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.notes-pdf4-5{
+    display: none;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+.notes-pdf4-5-inner{
+    width: 60%;
+    height: 100%;
+    position: relative;
+    left: 20%;
+    top: 0%;
+    background-color: #d6d6d6;
+}
+.document-name-1{
+    font-family: 'Comic Neue', cursive;
+    font-size: 17px;
+    
+}
+@media screen and (max-width: 800px) {
+    .hp-acontent{
+    background-color: #0d1a26;
+    height: 1955px;
+    }
+    .hp-body-content{
+        height: inherit;
+        width: 100%;
+        height: 1705px;
+    }
+    .hp-college-head{
+        position: relative;
+        width: 100%;
+        height: 100px;
+        left: -5px;
+        top: -8px;
+    }
+    .college-details{
+        position: relative;
+        width: 105.1%;
+        height: 100px;
+        background-color: rgb(24, 37, 52);
+        left: -5px;
+    }
+    .college-detais-inner{
+        position: relative;
+        width: 100%;
+        height: 100px;
+    }
+    .college-logo{
+        position: relative;
+        border-radius: 50%;
+        width: 90px;
+        height: 90px;
+        top: 5px;
+        left: 40px;
+    }
+    .colloge-logo-img{
+        position: relative;
+        width: 90px;
+        height: 90px;
+        border-radius: 50%;
+    }
+    .college-name{
+        position: relative;
+        width: 50%;
+        height: 80px;
+        top: -115px;
+        left: 160px;
+    }
+    .college-name-details{
+        position: relative;
+        width: 100%;
+        height: 80px;
+        font-family: Andale Mono, monospace;
+        font-size: 150%;
+        font-weight: 600;
+        color: #999999;
+    }
+    .sticky-header{
+        position: sticky;
+        top: 5px;
+        width: 100%;
+        left: 0px;
+        z-index: 6;
+    }
+    .college-details-container{
+        position: relative;
+        top: -8px;
+        width: 100%;
+        left: -8px;
+    }
+    .course-image{
+        position: relative;
+        width: 110px;
+        height: 75px;
+        top: 6px;
+        left: 30px;
+    }
+    .course-image-detail{
+        position: relative;
+        width: 110px;
+        height: 75px;
+    }
+    .mechanical-img{
+        position: relative;
+        width: 110px;
+        height: 70px;
+    }
+    .college-detail-page-details{
+        position: relative;
+        width: 100%;
+        height: 75px;
+    }
+    .course-year-background{
+        background-color: rgb(21, 32, 43);
+        position: relative;
+        width: 106%;
+        height: 75px;
+        left: -5px;
+    }
+    .college-sub-year{
+        position: relative;
+        width: 55%;
+        height: 70px;
+        left: 160px;
+        top: -105px;
+    }
+    .college-subject{
+        position: relative;
+        width: 100%;
+        height: 70px;
+        left: -5px;
+    }
+    .college-year{
+        position: relative;
+        width: 70px;
+        height: 40px;
+        left: 80%;
+        top: -68px;
+        display: none;
+    }
+    .detail-sub-heading{
+        position: relative;
+        font-family: 'Comic Neue', cursive;
+        color: white;
+        font-size: 150%;
+        text-align: center;
+        height: 70px;
+        width: 100%;
+        top: 0px;
+    }
+    .detail-year-heading{
+        position: relative;
+        font-family: Comic Sans MS;
+        color: white;
+        font-size: 150%;
+        text-align: center;
+        width: 70px;
+        height: 40px;
+        top: -0px;
+    }
+    .hp-college-nav{
+        background-color: rgb(21, 32, 43);
+        position: sticky;
+        width: 107%;
+        height: 60px;
+        border-radius: 5px;
+    }
+    .hp-college-nav:focus{
+        outline: none;
+    }
+    .hp-college-nav-background{
+        background-color: rgb(21, 32, 43);
+        position: relative;;
+        width: 100%;
+        height: 60px;
+        left: -9px;
+        box-shadow: 0px 1.5px 0px 0px #668cff;
+    }
+    .college-courses{
+        position: relative;
+        display: grid;
+        width: 95%;
+        height: 50px;
+        grid-template-areas:
+        'course1 course2 course3 course4' ;
+        left: 13.5px;
+        grid-gap: 10px;
+    }
+    .college-course-1{
+        grid-area: course1;
+        width: 80px;
+        height: 50px;
+        position: relative;
+        top: 5px;
+    }
+    .college-course-1-detail{
+        position: relative;
+        width: 100%;
+        height: 50px;
+        top: 0px;
+    }
+    .college-course-1-name{
+        position: relative;
+        width: inherit;
+        height: 50px;
+        text-decoration: none;   
+        border-radius: 10px;    
+    }
+    .college-course-1-name:focus{
+        outline: none;
+    }
+    .college-first-course{
+        position: relative;
+        color: black;
+        text-align: center;
+        font-family: 'Comic Neue', cursive;
+        font-size: 140%;
+        top: -15px;
+    }
+    .college-course-2{
+        grid-area: course2;
+        width: 80px;
+        height: 50px;
+        position: relative;
+        top: 5px;
+    }
+    .college-course-2-detail{
+        position: relative;
+        width: 100%;
+        height: 50px;
+    }
+    .college-course-2-name{
+        position: relative;
+        width: inherit;
+        height: 50px;
+        text-decoration: none;
+        border-radius: 10px;
+    }
+    .college-course-2-name:focus{
+        outline: none;
+    }
+    .college-second-course{
+        position: relative;
+        color: black;
+        text-align: center;
+        top: 15px;
+        font-family: 'Comic Neue', cursive;
+        font-size: 140%;
+        top: -15px;
+    }
+    .college-course-3{
+        grid-area: course3;
+        width: 80px;
+        height: 50px;
+        position: relative;
+        top: 5px;
+    }
+    .college-course-3-detail{
+        position: relative;
+        width: 100%;
+        height: 50px;
+    }
+    .college-course-3-name{
+        position: relative;
+        width: inherit;
+        height: 50px;
+        text-decoration: none;
+        border-radius: 10px;
+    }
+    .college-course-3-name:focus{
+        outline: none;
+    }
+    .college-third-course{
+        position: relative;
+        color: black;
+        text-align: center;
+        top: 15px;
+        font-family: 'Comic Neue', cursive;
+        font-size: 140%;
+        top: -15px;
+    }
+    .college-course-4{
+        grid-area: course4;
+        width: 80px;
+        height: 50px;
+        position: relative;
+        top: 5px;
+    }
+    .college-course-4-detail{
+        position: relative;
+        width: 100%;
+        height: 50px;
+    }
+    .college-course-4-name{
+        position: relative;
+        width: inherit;
+        height: 50px;
+        text-decoration: none;
+        border-radius: 10px;
+    }
+    .college-course-4-name:focus{
+        outline: none;
+    }
+    .college-fourth-course{
+        position: relative;
+        color: black;
+        text-align: center;
+        top: 15px;
+        font-family: 'Comic Neue', cursive;
+        font-size: 140%;
+        top: -15px;
+    }
+    .college-course-background{
+        height: 50px;
+        width: 100%;
+        border-radius: 10px;
+        position: relative;
+        background-color: #d6d6d6;
+    }
+    .college-course-content{
+        position: relative;
+        width: 100%;
+        border-radius: 20px;
+        z-index: 5;
+        left: 0px;
+        height: 100%;
+    }
+    .college-courses-content-main{
+        position: relative;
+        width: 100%;
+        background-color: #d6d6d6;
+        border-radius: 30px;
+        left: 0px;
+        height: inherit;
+    }
+    .college-content-notes-1{
+        position: relative;
+        width: 100%;
+        height: 340px;
+        left: -5px;
+    }
+    .collge-notes-1{
+        position: relative;
+        width: 100%;
+        height: inherit;
+    }
+    .college-notes-content-1{
+        position: relative;
+        width: 100%;
+        height: inherit;
+    }
+    .notes-content-1{
+        position: relative;
+        width: 100%;
+        height: inherit;
+    }
+    .notes-main-1{
+        position: relative;
+        width: 100%;
+        height: inherit;
+    }
+    .notes-list-1{
+        position: relative;
+        width: 95%;
+        height: 150px;
+        list-style: none;
+        display: grid;
+        left: -19px;
+        grid-row-gap: 15px;
+        grid-column-gap: 20px;
+        grid-template-areas:
+        'notes1-1 notes2-1' 
+        'notes3-1 notes4-1' ;
+    }
+    .clg-notes1-1{
+        position: relative;
+        width: 140px;
+        height: 150px;
+        border-radius: 20px;
+        grid-area: notes1-1;
+    }
+    .notes1-1{
+        position: relative;
+        width: 140px;
+        height: 150px;
+        border-radius: 20px;
+        z-index: 5;
+    }
+    .list1-general > a{
+        display: inline;
+    }
+    .list1-note1-link{
+        position: relative;
+        width: 140px;
+        height: 150px;
+        border-radius: 20px;
+        display: block;
+    }
+    .list1-note1-img{
+        position: relative;
+        height: 100px;
+        width: 140px;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+    }
+    .embeded-list1-note1{
+        position: relative;
+        width: 140px;
+        height: 50px;
+        background-color: #006666;
+        text-align: center;
+        top: -25px;
+        font-family: 'Comic Neue', cursive;
+        font-size: 12px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+    .notes-pdf1-1{
+        display: none;
+        height: 100%;
+        width: 100%;
+        position: relative;
+        top: 0px;
+        left: 0px;
+        background-color: rgba(0, 0, 0, 0.9);
+        z-index: 7;
+    }
+    .notes-pdf1-1-inner{
+        width: 70%;
+        height: 100%;
+        position: relative;
+        left: 15%;
+        top: 0%;
+        background-color: #d6d6d6;
+        z-index: 7;
+    }
+    .clg-notes2-1{
+        position: relative;
+        width: 140px;
+        height: 150px;
+        border-radius: 20px;
+        grid-area: notes2-1;
+    }
+    .notes2-1{
+        position: relative;
+        width: 140px;
+        height: 150px;
+        border-radius: 20px;
+        top: 20px;
+    }
+    .list1-note2-link{
+        position: relative;
+        width: 140px;
+        height: 150px;
+        display: block;
+        border-radius: 20px;
+    }
+    .list1-note2-img{
+        position: relative;
+        height: 100px;
+        width: 140px;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+    }
+    .embeded-list1-note2{
+        position: relative;
+        width: 140px;
+        height: 50px;
+        background-color: #006666;
+        text-align: center;
+        top: -25px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+    .notes-pdf2-1{
+        display: none;
+        height: 100%;
+        width: 100%;
+        position: relative;
+        top: 0px;
+        left: 0px;
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+    .notes-pdf2-1-inner{
+        width: 70%;
+        height: 100%;
+        position: relative;
+        left: 15%;
+        top: 0%;
+        background-color: #d6d6d6;
+    }
+    .clg-notes3-1{
+        position: relative;
+        width: 140px;
+        height: 150px;
+        border-radius: 20px;
+        grid-area: notes3-1;
+    }
+    .notes3-1{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        border-radius: 20px;
+        top: 20px;
+    }
+    .list1-note3-link{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        display: block;
+        border-radius: 20px;
+    }
+    .list1-note3-img{
+        position: relative;
+        height: 100px;
+        width: 140px;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+    }
+    .embeded-list1-note3{
+        position: relative;
+        width: 140px;
+        height: 50px;
+        background-color: #006666;
+        text-align: center;
+        top: -25px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+    .notes-pdf3-1{
+        display: none;
+        height: 100%;
+        width: 100%;
+        position: relative;
+        top: 0px;
+        left: 0px;
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+    .notes-pdf3-1-inner{
+        width: 70%;
+        height: 100%;
+        position: relative;
+        left: 15%;
+        top: 0%;
+        background-color: #d6d6d6;
+    }
+    .clg-notes4-1{
+        position: relative;
+        width: 140px;
+        height: 150px;
+        border-radius: 20px;
+        grid-area: notes4-1;
+    }
+    .notes4-1{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        border-radius: 20px;
+        top: 20px;
+    }
+    .list1-note4-link{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        display: block;
+        border-radius: 20px;
+    }
+    .list1-note4-img{
+        position: relative;
+        height: 100px;
+        width: 140px;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+    }
+    .embeded-list1-note4{
+        position: relative;
+        width: 140px;
+        height: 50px;
+        background-color: #006666;
+        text-align: center;
+        top: -25px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+    .notes-pdf4-1{
+        display: none;
+        height: 100%;
+        width: 100%;
+        position: relative;
+        top: 0px;
+        left: 0px;
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+    .notes-pdf4-1-inner{
+        width: 70%;
+        height: 100%;
+        position: relative;
+        left: 15%;
+        top: 0%;
+        background-color: #d6d6d6;
+    }
+    .college-content-notes-2{
+        position: relative;
+        width: 100%;
+        height: 340px;
+        left: -5px;
+        top: -25px;
+    }
+    .collge-notes-2{
+        position: relative;
+        width: 100%;
+        height: inherit;
+    }
+    .college-notes-content-2{
+        position: relative;
+        width: 100%;
+        height: inherit;
+    }
+    .notes-content-2{
+        position: relative;
+        width: 100%;
+        height: inherit;
+    }
+    .notes-main-2{
+        position: relative;
+        width: 100%;
+        height: inherit;
+    }
+    .notes-list-2{
+        position: relative;
+        width: 95%;
+        height: 340px;
+        display: grid;
+        list-style: none;
+        left: -19px;
+        grid-template-areas:
+        'notes1-2 notes2-2' 
+        'notes3-2 notes4-2' ;
+        background-color: inherit;
+        grid-row-gap: 0px;
+        grid-column-gap: 20px;
+    }
+    .clg-notes1-2{
+        position: relative;
+        width: 140px;
+        height: 150px;
+        border-radius: 20px;
+        grid-area: notes1-2;
+    }
+    .notes1-2{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        border-radius: 20px;
+        top: 20px;
+    }
+    .list2-general > a{
+        display: inline;
+    }
+    .list2-note1-link{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        display: block;
+        border-radius: 20px;
+    }
+    .list2-note1-img{
+        position: relative;
+        height: 100px;
+        width: 100%;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+    }
+    .embeded-list2-note1{
+        position: relative;
+        width: 140px;
+        height: 50px;
+        background-color: #006666;
+        text-align: center;
+        top: -25px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+    .notes-pdf1-2{
+        display: none;
+        height: 100%;
+        width: 100%;
+        position: relative;
+        top: 0px;
+        left: 0px;
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+    .notes-pdf1-2-inner{
+        width: 70%;
+        height: 100%;
+        position: relative;
+        left: 15%;
+        top: 0%;
+        background-color: #d6d6d6;
+    }
+    .clg-notes2-2{
+        position: relative;
+        width: 140px;
+        height: 150px;
+        border-radius: 20px;
+        grid-area: notes2-2;
+    }
+    .notes2-2{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        border-radius: 20px;
+        top: 20px;
+    }
+    .list2-note2-link{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        border-radius: 20px;
+        display: block;
+    }
+    .list2-note2-img{
+        position: relative;
+        height: 100px;
+        width: 140px;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+    }
+    .embeded-list2-note2{
+        position: relative;
+        width: 140px;
+        height: 50px;
+        background-color: #006666;
+        text-align: center;
+        top: -25px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+    .notes-pdf2-2{
+        display: none;
+        height: 100%;
+        width: 100%;
+        position: relative;
+        top: 0px;
+        left: 0px;
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+    .notes-pdf2-2-inner{
+        width: 70%;
+        height: 100%;
+        position: relative;
+        left: 15%;
+        top: 0%;
+        background-color: #d6d6d6;
+    }
+    .clg-notes3-2{
+        position: relative;
+        width: 140px;
+        height: 150px;
+        border-radius: 20px;
+        grid-area: notes3-2;
+    }
+    .notes3-2{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        border-radius: 20px;
+        top: 20px;
+    }
+    .list2-note3-link{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        border-radius: 20px;
+        display: block;
+    }
+    .list2-note3-img{
+        position: relative;
+        height: 100px;
+        width: 140px;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+    }
+    .embeded-list2-note3{
+        position: relative;
+        width: 140px;
+        height: 50px;
+        background-color: #006666;
+        text-align: center;
+        top: -25px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+    .notes-pdf3-2{
+        display: none;
+        height: 100%;
+        width: 100%;
+        position: relative;
+        top: 0px;
+        left: 0px;
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+    .notes-pdf3-2-inner{
+        width: 70%;
+        height: 100%;
+        position: relative;
+        left: 15%;
+        top: 0%;
+        background-color: #d6d6d6;
+    }
+    .clg-notes4-2{
+        position: relative;
+        width: 140px;
+        height: 150px;
+        border-radius: 20px;
+        grid-area: notes4-2;
+    }
+    .notes4-2{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        border-radius: 20px;
+        top: 20px;
+    }
+    .list2-note4-link{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        border-radius: 20px;
+        display: block;
+    }
+    .list2-note4-img{
+        position: relative;
+        height: 100px;
+        width: 140px;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+    }
+    .embeded-list2-note4{
+        position: relative;
+        width: 140px;
+        height: 50px;
+        background-color: #006666;
+        text-align: center;
+        top: -25px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+    .notes-pdf4-2{
+        display: none;
+        height: 100%;
+        width: 100%;
+        position: relative;
+        top: 0px;
+        left: 0px;
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+    .notes-pdf4-2-inner{
+        width: 70%;
+        height: 100%;
+        position: relative;
+        left: 15%;
+        top: 0%;
+        background-color: #d6d6d6;
+    }
+    .college-content-notes-3{
+        position: relative;
+        width: 100%;
+        left: -5px;
+        height: 340px;
+        top: -45px;
+    }
+    .collge-notes-3{
+        position: relative;
+        width: 100%;
+        height: inherit;
+    }
+    .college-notes-content-3{
+        position: relative;
+        width: 100%;
+        height: inherit;
+    }
+    .notes-content-3{
+        position: relative;
+        width: 100%;
+        height: inherit;
+    }
+    .notes-main-3{
+        position: relative;
+        width: 100%;
+        height: inherit;
+    }
+    .notes-list-3{
+        position: relative;
+        width: 95%;
+        height: 340px;
+        display: grid;
+        list-style: none;
+        left: -19px;
+        grid-gap: 20px;
+        grid-template-areas:
+        'notes1-3 notes2-3' 
+        'notes3-3 notes4-3' ;
+        background-color: inherit;
+        grid-row-gap: 0px;
+        grid-column-gap: 20px;
+    }
+    .clg-notes1-3{
+        position: relative;
+        width: 140px;
+        height: 150px;
+        border-radius: 20px;
+        grid-area: notes1-3;
+    }
+    .notes1-3{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        border-radius: 20px;
+        top: 20px;
+    }
+    .list3-general > a{
+        display: inline;
+    }
+    .list3-note1-link{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        display: block;
+        border-radius: 20px;
+    }
+    .list3-note1-img{
+        position: relative;
+        height: 100px;
+        width: 140px;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+    }
+    .embeded-list3-note1{
+        position: relative;
+        width: 140px;
+        height: 50px;
+        background-color: #006666;
+        text-align: center;
+        top: -25px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+    .notes-pdf1-3{
+        display: none;
+        height: 100%;
+        width: 100%;
+        position: relative;
+        top: 0px;
+        left: 0px;
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+    .notes-pdf1-3-inner{
+        width: 70%;
+        height: 100%;
+        position: relative;
+        left: 15%;
+        top: 0%;
+        background-color: #d6d6d6;
+    }
+    .clg-notes2-3{
+        position: relative;
+        width: 140px;
+        height: 150px;
+        border-radius: 20px;
+        grid-area: notes2-3;
+    }
+    .notes2-3{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        border-radius: 20px;
+        top: 20px;
+    }
+    .list3-note2-link{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        display: block;
+        border-radius: 20px;
+    }
+    .list3-note2-img{
+        position: relative;
+        height: 100px;
+        width: 140px;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+    }
+    .embeded-list3-note2{
+        position: relative;
+        width: 140px;
+        height: 50px;
+        background-color: #006666;
+        text-align: center;
+        top: -25px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+    .notes-pdf2-3{
+        display: none;
+        height: 100%;
+        width: 100%;
+        position: relative;
+        top: 0px;
+        left: 0px;
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+    .notes-pdf2-3-inner{
+        width: 70%;
+        height: 100%;
+        position: relative;
+        left: 15%;
+        top: 0%;
+        background-color: #d6d6d6;
+    }
+    .clg-notes3-3{
+        position: relative;
+        width: 140px;
+        height: 150px;
+        border-radius: 20px;
+        grid-area: notes3-3;
+    }
+    .notes3-3{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        border-radius: 20px;
+        top: 20px;
+    }
+    .list3-note3-link{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        display: block;
+        border-radius: 20px;
+    }
+    .list3-note3-img{
+        position: relative;
+        height: 100px;
+        width: 140px;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+    }
+    .embeded-list3-note3{
+        position: relative;
+        width: 140px;
+        height: 50px;
+        background-color: #006666;
+        text-align: center;
+        top: -25px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+    .notes-pdf3-3{
+        display: none;
+        height: 100%;
+        width: 100%;
+        position: relative;
+        top: 0px;
+        left: 0px;
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+    .notes-pdf3-3-inner{
+        width: 70%;
+        height: 100%;
+        position: relative;
+        left: 15%;
+        top: 0%;
+        background-color: #d6d6d6;
+    }
+    .clg-notes4-3{
+        position: relative;
+        width: 140px;
+        height: 150px;
+        border-radius: 20px;
+        grid-area: notes4-3;
+    }
+    .notes4-3{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        border-radius: 20px;
+        top: 20px;
+    }
+    .list3-note4-link{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        display: block;
+        border-radius: 20px;
+    }
+    .list3-note4-img{
+        position: relative;
+        height: 100px;
+        width: 140px;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+    }
+    .embeded-list3-note4{
+        position: relative;
+        width: 140px;
+        height: 50px;
+        background-color: #006666;
+        text-align: center;
+        top: -25px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+    .notes-pdf4-3{
+        display: none;
+        height: 100%;
+        width: 100%;
+        position: relative;
+        top: 0px;
+        left: 0px;
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+    .notes-pdf4-3-inner{
+        width: 70%;
+        height: 100%;
+        position: relative;
+        left: 15%;
+        top: 0%;
+        background-color: #d6d6d6;
+    }
+    .college-content-notes-4{
+        position: relative;
+        width: 100%;
+        left: -5px;
+        height: 340px;
+        top: -60px;
+    }
+    .collge-notes-4{
+        position: relative;
+        width: 100%;
+        height: inherit;
+    }
+    .college-notes-content-4{
+        position: relative;
+        width: 100%;
+        height: inherit;
+    }
+    .notes-content-4{
+        position: relative;
+        width: 100%;
+        height: inherit;
+    }
+    .notes-main-4{
+        position: relative;
+        width: 100%;
+        height: inherit;
+    }
+    .notes-list-4{
+        position: relative;
+        width: 95%;
+        height: 340px;
+        display: grid;
+        left: -19px;
+        list-style: none;
+        grid-gap: 20px;
+        grid-template-areas:
+        'notes1-4 notes2-4' 
+        'notes3-4 notes4-4' ;
+        background-color: inherit;
+        grid-row-gap: 0px;
+        grid-column-gap: 20px;
+    }
+    .clg-notes1-4{
+        position: relative;
+        width: 140px;
+        height: 150px;
+        border-radius: 20px;
+        grid-area: notes1-4;
+    }
+    .notes1-4{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        border-radius: 20px;
+        top: 20px;
+    }
+    .list4-general > a{
+        display: inline;
+    }
+    .list4-note1-link{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        display: block;
+        border-radius: 20px;
+    }
+    .list4-note1-img{
+        position: relative;
+        height: 100px;
+        width: 140px;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+    }
+    .embeded-list4-note1{
+        position: relative;
+        width: 140px;
+        height: 50px;
+        background-color: #006666;
+        text-align: center;
+        top: -25px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+    .notes-pdf1-4{
+        display: none;
+        height: 100%;
+        width: 100%;
+        position: relative;
+        top: 0px;
+        left: 0px;
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+    .notes-pdf1-4-inner{
+        width: 70%;
+        height: 100%;
+        position: relative;
+        left: 15%;
+        top: 0%;
+        background-color: #d6d6d6;
+    }
+    .clg-notes2-4{
+        position: relative;
+        width: 140px;
+        height: 150px;
+        border-radius: 20px;
+        grid-area: notes2-4;
+    }
+    .notes2-4{
+        position: relative;
+        width: 140px;
+        height: 150px;
+        border-radius: 20px;
+        top: 20px;
+    }
+    .list4-note2-link{
+        position: relative;
+        width: 140px;
+        height: 150px;
+        display: block;
+        border-radius: 20px;
+    }
+    .list4-note2-img{
+        position: relative;
+        height: 100px;
+        width: 140px;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+    }
+    .embeded-list4-note2{
+        position: relative;
+        width: 140px;
+        height: 50px;
+        background-color: #006666;
+        text-align: center;
+        top: -25px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+    .notes-pdf2-4{
+        display: none;
+        height: 100%;
+        width: 100%;
+        position: relative;
+        top: 0px;
+        left: 0px;
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+    .notes-pdf2-4-inner{
+        width: 70%;
+        height: 100%;
+        position: relative;
+        left: 15%;
+        top: 0%;
+        background-color: #d6d6d6;
+    }
+    .clg-notes3-4{
+        position: relative;
+        width: 140px;
+        height: 150px;
+        border-radius: 20px;
+        grid-area: notes3-4;
+    }
+    .notes3-4{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        border-radius: 20px;
+        top: 20px;
+    }
+    .list4-note3-link{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        display: block;
+        border-radius: 20px;
+    }
+    .list4-note3-img{
+        position: relative;
+        height: 100px;
+        width: 140px;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+    }
+    .embeded-list4-note3{
+        position: relative;
+        width: 140px;
+        height: 50px;
+        background-color: #006666;
+        text-align: center;
+        top: -25px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+    .notes-pdf3-4{
+        display: none;
+        height: 100%;
+        width: 100%;
+        position: relative;
+        top: 0px;
+        left: 0px;
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+    .notes-pdf3-4-inner{
+        width: 70%;
+        height: 100%;
+        position: relative;
+        left: 15%;
+        top: 0%;
+        background-color: #d6d6d6;
+    }
+    .clg-notes4-4{
+        position: relative;
+        width: 140px;
+        height: 150px;
+        border-radius: 20px;
+        grid-area: notes4-4;
+    }
+    .notes4-4{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        border-radius: 20px;
+        top: 20px;
+    }
+    .list4-note4-link{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        display: block;
+        border-radius: 20px;
+    }
+    .list4-note4-img{
+        position: relative;
+        height: 100px;
+        width: 140px;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+    }
+    .embeded-list4-note4{
+        position: relative;
+        width: 140px;
+        height: 50px;
+        background-color: #006666;
+        text-align: center;
+        top: -25px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+    .notes-pdf4-4{
+        display: none;
+        height: 100%;
+        width: 100%;
+        position: relative;
+        top: 0px;
+        left: 0px;
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+    .notes-pdf4-4-inner{
+        width: 70%;
+        height: 100%;
+        position: relative;
+        left: 15%;
+        top: 0%;
+        background-color: #d6d6d6;
+    }
+    .college-content-notes-5{
+        position: relative;
+        width: 100%;
+        left: -5px;
+        height: 340px;
+        top: -75px;
+    }
+    .collge-notes-5{
+        position: relative;
+        width: 100%;
+        height: inherit;
+    }
+    .college-notes-content-5{
+        position: relative;
+        width: 100%;
+        height: inherit;
+    }
+    .notes-content-5{
+        position: relative;
+        width: 100%;
+        height: inherit;
+    }
+    .notes-main-5{
+        position: relative;
+        width: 100%;
+        height: inherit;
+    }
+    .notes-list-5{
+        position: relative;
+        width: 95%;
+        height: 340px;
+        display: grid;
+        left: -19px;
+        list-style: none;
+        grid-gap: 20px;
+        grid-template-areas:
+        'notes1-4 notes2-4' 
+        'notes3-4 notes4-4' ;
+        background-color: inherit;
+        grid-row-gap: 0px;
+        grid-column-gap: 20px;
+    }
+    .clg-notes1-5{
+        position: relative;
+        width: 140px;
+        height: 150px;
+        border-radius: 20px;
+        grid-area: notes1-4;
+    }
+    .notes1-5{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        border-radius: 20px;
+        top: 20px;
+    }
+    .list5-general > a{
+        display: inline;
+    }
+    .list5-note1-link{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        display: block;
+        border-radius: 20px;
+    }
+    .list5-note1-img{
+        position: relative;
+        height: 100px;
+        width: 140px;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+    }
+    .embeded-list5-note1{
+        position: relative;
+        width: 140px;
+        height: 50px;
+        background-color: #006666;
+        text-align: center;
+        top: -25px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+    .notes-pdf1-5{
+        display: none;
+        height: 100%;
+        width: 100%;
+        position: relative;
+        top: 0px;
+        left: 0px;
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+    .notes-pdf1-5-inner{
+        width: 70%;
+        height: 100%;
+        position: relative;
+        left: 15%;
+        top: 0%;
+        background-color: #d6d6d6;
+    }
+    .clg-notes2-5{
+        position: relative;
+        width: 140px;
+        height: 150px;
+        border-radius: 20px;
+        grid-area: notes2-4;
+    }
+    .notes2-5{
+        position: relative;
+        width: 140px;
+        height: 150px;
+        border-radius: 20px;
+        top: 20px;
+    }
+    .list5-note2-link{
+        position: relative;
+        width: 140px;
+        height: 150px;
+        display: block;
+        border-radius: 20px;
+    }
+    .list5-note2-img{
+        position: relative;
+        height: 100px;
+        width: 140px;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+    }
+    .embeded-list5-note2{
+        position: relative;
+        width: 140px;
+        height: 50px;
+        background-color: #006666;
+        text-align: center;
+        top: -25px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+    .notes-pdf2-5{
+        display: none;
+        height: 100%;
+        width: 100%;
+        position: relative;
+        top: 0px;
+        left: 0px;
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+    .notes-pdf2-5-inner{
+        width: 70%;
+        height: 100%;
+        position: relative;
+        left: 15%;
+        top: 0%;
+        background-color: #d6d6d6;
+    }
+    .clg-notes3-5{
+        position: relative;
+        width: 140px;
+        height: 150px;
+        border-radius: 20px;
+        grid-area: notes3-4;
+    }
+    .notes3-5{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        border-radius: 20px;
+        top: 20px;
+    }
+    .list5-note3-link{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        display: block;
+        border-radius: 20px;
+    }
+    .list5-note3-img{
+        position: relative;
+        height: 100px;
+        width: 140px;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+    }
+    .embeded-list5-note3{
+        position: relative;
+        width: 140px;
+        height: 50px;
+        background-color: #006666;
+        text-align: center;
+        top: -25px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+    .notes-pdf3-5{
+        display: none;
+        height: 100%;
+        width: 100%;
+        position: relative;
+        top: 0px;
+        left: 0px;
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+    .notes-pdf3-5-inner{
+        width: 70%;
+        height: 100%;
+        position: relative;
+        left: 15%;
+        top: 0%;
+        background-color: #d6d6d6;
+    }
+    .clg-notes4-5{
+        position: relative;
+        width: 140px;
+        height: 150px;
+        border-radius: 20px;
+        grid-area: notes4-4;
+    }
+    .notes4-5{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        border-radius: 20px;
+        top: 20px;
+    }
+    .list5-note4-link{
+        position: relative;
+        width: 140px;
+        height: 100%;
+        display: block;
+        border-radius: 20px;
+    }
+    .list5-note4-img{
+        position: relative;
+        height: 100px;
+        width: 140px;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+    }
+    .embeded-list5-note4{
+        position: relative;
+        width: 140px;
+        height: 50px;
+        background-color: #006666;
+        text-align: center;
+        top: -25px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+    .notes-pdf4-5{
+        display: none;
+        height: 100%;
+        width: 100%;
+        position: relative;
+        top: 0px;
+        left: 0px;
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+    .notes-pdf4-5-inner{
+        width: 70%;
+        height: 100%;
+        position: relative;
+        left: 15%;
+        top: 0%;
+        background-color: #d6d6d6;
+    }
+    .document-name-1{
+        font-family: 'Comic Neue', cursive;
+        font-size: 14px;
+    }
+    slash{
+        display: none;
+    }
+}
