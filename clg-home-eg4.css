@@ -1,0 +1,966 @@
+.college-course-sub-2-p{
+    height: 660px;
+    position: relative;
+    top: -1922px;
+    z-index: 5;
+    visibility: visible;
+}
+.college-courses-sub-main-2-p{
+    background-color: #e6e6e6;
+    width: 905px;
+    height: 660px;
+    border-radius: 30px;
+    left: 170px;
+    position: relative;
+    box-shadow: 2px 3px 4px 2px #8c8c8c;
+}
+.college-first-sub-year-mt-p{
+    position: relative;
+    width: 400px;
+    height: 600px;
+    background-color: seagreen;
+    border-radius: 30px;
+    left: 30px;
+    top: 25px;
+    box-shadow: 2px 2px 2px 2px #8c8c8c;
+}
+.collge-sub-year-1-mt-p{
+    position: relative;
+    width: 400px;
+    height: 600px;
+}
+.college-sub-1-mt-p{
+    position: relative;
+    width: 400px;
+    height: 600px;
+    text-align: center;
+}
+.sub-year-1-mt-p{
+    position: relative;
+    width: 200px;
+    height: 70px;
+    border-radius: 50px;
+    background-color: orange;
+    top: 20px;
+    left: 75px;
+    box-shadow: 1px 1px 1px 1px #8c8c8c;
+}
+.year-1-mt-p{
+    position: relative;
+    width: 100px;
+    height: 50px;
+    color: black;
+    top: 20px;
+    left: 50px;
+}
+.year1-mt-heading-p{
+    position: relative;  
+    text-align: center;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    width: 100px;
+    height: 50px;
+    font-size: 150%;
+}         
+.sub-year-1-mt-content-p{
+    position: relative;
+    width: 380px;
+    height: 460px;
+    top: 40px;
+    left: 20px;
+}
+.year1-mt-content-p{
+    position: relative;
+    width: 380px;
+    height: 460px;
+}
+.year1-mt-subjects-p{
+    position: relative;
+    width: 350px;
+    height: 460px;
+    list-style: circle;
+}
+.year1-mt-subject-1-p{
+    position: relative;
+    width: 350px;
+    height: 50px;
+}
+.year1-mt-subject-1-p:hover{
+    list-style: disc;
+}
+.subject1-year1-mt-p{
+    position: relative;
+    width: 350px;
+    height: 50px;
+}
+.year1-mt-subject1-link-p{
+    position: relative;
+    width: 350px;
+    height: 30px;
+    text-decoration: none;
+    color: black;
+}
+.year1-mt-sub-heading1-p{
+    position: relative;
+    width: 350px;
+    height: 30px;
+    text-align: left;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 110%;
+}
+.year1-mt-subject-2-p{
+    position: relative;
+    width: 350px;
+    height: 50px;
+}
+.year1-mt-subject-2-p:hover{
+    list-style: disc;
+}
+.subject2-year1-mt-p{
+    position: relative;
+    width: 350px;
+    height: 50px;
+}
+.year1-mt-subject2-link-p{
+    position: relative;
+    width: 350px;
+    height: 30px;
+    text-decoration: none;
+    color: black;
+}
+.year1-mt-sub-heading2-p{
+    position: relative;
+    width: 350px;
+    height: 30px;
+    text-align: left;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 110%;
+}
+.year1-mt-subject-3-p{
+    position: relative;
+    width: 350px;
+    height: 50px;
+}
+.year1-mt-subject-3-p:hover{
+    list-style: disc;
+}
+.subject3-year1-mt-p{
+    position: relative;
+    width: 350px;
+    height: 50px;
+}
+.year1-mt-subject3-link-p{
+    position: relative;
+    width: 350px;
+    height: 30px;
+    text-decoration: none;
+    color: black;
+}
+.year1-mt-sub-heading3-p{
+    position: relative;
+    width: 350px;
+    height: 30px;
+    text-align: left;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 110%;
+}
+.year1-mt-subject-4-p{
+    position: relative;
+    width: 350px;
+    height: 50px;
+}
+.year1-mt-subject-4-p:hover{
+    list-style: disc;
+}
+.subject4-year1-mt-p{
+    position: relative;
+    width: 350px;
+    height: 50px;
+}
+.year1-mt-subject4-link-p{
+    position: relative;
+    width: 350px;
+    height: 30px;
+    text-decoration: none;
+    color: black;
+}
+.year1-mt-sub-heading4-p{
+    position: relative;
+    width: 350px;
+    height: 30px;
+    text-align: left;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 110%;
+}
+.year1-mt-subject-5-p{
+    position: relative;
+    width: 350px;
+    height: 50px;
+}
+.year1-mt-subject-5-p:hover{
+    list-style: disc;
+}
+.subject5-year1-mt-p{
+    position: relative;
+    width: 350px;
+    height: 50px;
+}
+.year1-mt-subject5-link-p{
+    position: relative;
+    width: 350px;
+    height: 30px;
+    text-decoration: none;
+    color: black;
+}
+.year1-mt-sub-heading5-p{
+    position: relative;
+    width: 350px;
+    height: 30px;
+    text-align: left;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 110%;
+}
+.year1-mt-subject-6-p{
+    position: relative;
+    width: 350px;
+    height: 50px;
+}
+.year1-mt-subject-6-p:hover{
+    list-style: disc;
+}
+.subject6-year1-mt-p{
+    position: relative;
+    width: 350px;
+    height: 50px;
+}
+.year1-mt-subject6-link-p{
+    position: relative;
+    width: 350px;
+    height: 30px;
+    text-decoration: none;
+    color: black;
+}
+.year1-mt-sub-heading6-p{
+    position: relative;
+    width: 350px;
+    height: 30px;
+    text-align: left;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 110%;
+}
+.college-second-sub-year-mt-p{
+    position: relative;
+    width: 400px;
+    height: 600px;
+    background-color: seagreen;
+    border-radius: 30px;
+    left: 470px;
+    top: -596px;
+    box-shadow: 2px 2px 2px 2px #8c8c8c;
+}
+.collge-sub-year-2-mt-p{
+    position: relative;
+    width: 400px;
+    height: 600px;
+}
+.college-sub-2-mt-p{
+    position: relative;
+    width: 400px;
+    height: 600px;
+}
+.sub-year-2-mt-p{
+    position: relative;
+    width: 200px;
+    height: 70px;
+    border-radius: 50px;
+    background-color: orange;
+    top: 20px;
+    left: 75px;
+    box-shadow: 1px 1px 1px 1px #8c8c8c;
+}
+.year-2-mt-p{
+    position: relative;
+    width: 100px;
+    height: 50px;
+    color: black;
+    top: 20px;
+    left: 50px;
+}
+.year2-mt-heading-p{
+    position: relative;  
+    text-align: center;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    width: 100px;
+    height: 50px;
+    font-size: 150%;
+}         
+.sub-year-2-mt-content-p{
+    position: relative;
+    width: 380px;
+    height: 460px;
+    top: 40px;
+    left: 20px;
+}
+.year2-mt-content-p{
+    position: relative;
+    width: 380px;
+    height: 460px;
+}
+.year2-mt-subjects-p{
+    position: relative;
+    width: 350px;
+    height: 460px;
+    list-style: circle;
+}
+.year2-mt-subject-1-p{
+    position: relative;
+    width: 350px;
+    height: 50px;
+}
+.year2-mt-subject-1-p:hover{
+    list-style: disc;
+}
+.subject1-year2-mt-p{
+    position: relative;
+    width: 350px;
+    height: 50px;
+}
+.year2-mt-subject1-link-p{
+    position: relative;
+    width: 350px;
+    height: 30px;
+    text-decoration: none;
+    color: black;
+}
+.year2-mt-sub-heading1-p{
+    position: relative;
+    width: 350px;
+    height: 30px;
+    text-align: left;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 110%;
+}
+.year2-mt-subject-2-p{
+    position: relative;
+    width: 350px;
+    height: 50px;
+}
+.year2-mt-subject-2-p:hover{
+    list-style: disc;
+}
+.subject2-year2-mt-p{
+    position: relative;
+    width: 350px;
+    height: 50px;
+}
+.year2-mt-subject2-link-p{
+    position: relative;
+    width: 350px;
+    height: 30px;
+    text-decoration: none;
+    color: black;
+}
+.year2-mt-sub-heading2-p{
+    position: relative;
+    width: 350px;
+    height: 30px;
+    text-align: left;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 110%;
+}
+.year2-mt-subject-3-p{
+    position: relative;
+    width: 350px;
+    height: 50px;
+}
+.year2-mt-subject-3-p:hover{
+    list-style: disc;
+}
+.subject3-year2-mt-p{
+    position: relative;
+    width: 350px;
+    height: 50px;
+}
+.year2-mt-subject3-link-p{
+    position: relative;
+    width: 350px;
+    height: 30px;
+    text-decoration: none;
+    color: black;
+}
+.year2-mt-sub-heading3-p{
+    position: relative;
+    width: 350px;
+    height: 30px;
+    text-align: left;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 110%;
+}
+.year2-mt-subject-4-p{
+    position: relative;
+    width: 350px;
+    height: 50px;
+}
+.year2-mt-subject-4-p:hover{
+    list-style: disc;
+}
+.subject4-year2-mt-p{
+    position: relative;
+    width: 350px;
+    height: 50px;
+}
+.year2-mt-subject4-link-p{
+    position: relative;
+    width: 350px;
+    height: 30px;
+    text-decoration: none;
+    color: black;
+}
+.year2-mt-sub-heading4-p{
+    position: relative;
+    width: 350px;
+    height: 30px;
+    text-align: left;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 110%;
+}
+.year2-mt-subject-5-p{
+    position: relative;
+    width: 350px;
+    height: 50px;
+}
+.year2-mt-subject-5-p:hover{
+    list-style: disc;
+}
+.subject5-year2-mt-p{
+    position: relative;
+    width: 350px;
+    height: 50px;
+}
+.year2-mt-subject5-link-p{
+    position: relative;
+    width: 350px;
+    height: 30px;
+    text-decoration: none;
+    color: black;
+}
+.year2-mt-sub-heading5-p{
+    position: relative;
+    width: 350px;
+    height: 30px;
+    text-align: left;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 110%;
+}
+.year2-mt-subject-6-p{
+    position: relative;
+    width: 350px;
+    height: 50px;
+}
+.year2-mt-subject-6-p:hover{
+    list-style: disc;
+}
+.subject6-year2-mt-p{
+    position: relative;
+    width: 350px;
+    height: 50px;
+}
+.year2-mt-subject6-link-p{
+    position: relative;
+    width: 350px;
+    height: 30px;
+    text-decoration: none;
+    color: black;
+}
+.year2-mt-sub-heading6-p{
+    position: relative;
+    width: 350px;
+    height: 30px;
+    text-align: left;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-size: 110%;
+}
+@media screen and (max-width: 800px) {
+    .college-course-sub-2-p{
+    height: 660px;
+    position: relative;
+    top: -2447px;
+    z-index: 5;
+    visibility: visible;
+    width: 653.59px;
+    left: 0px;
+    }
+    .college-courses-sub-main-2-p{
+        background-color: #d6d6d6;
+        width: 100%;
+        height: 660px;
+        border-radius: 30px;
+        position: relative;
+        box-shadow: 2px 3px 4px 2px #8c8c8c;
+        left: 0px;
+    }
+    .college-first-sub-year-mt-p{
+        position: relative;
+        width: 280px;
+        height: 600px;
+        background-color: #006666;
+        border-radius: 30px;
+        left: 20px;
+        top: 25px;
+        box-shadow: 2px 2px 2px 2px #8c8c8c;
+    }
+    .collge-sub-year-1-mt-p{
+        position: relative;
+        width: 280px;
+        height: 600px;
+    }
+    .college-sub-1-mt-p{
+        position: relative;
+        width: 280px;
+        height: 600px;
+        text-align: center;
+    }
+    .sub-year-1-mt-p{
+        position: relative;
+        width: 200px;
+        height: 70px;
+        border-radius: 50px;
+        background-color: #003333;
+        top: 20px;
+        left: 40px;
+        box-shadow: 1px 1px 1px 1px #8c8c8c;
+    }
+    .year-1-mt-p{
+        position: relative;
+        width: 100px;
+        height: 50px;
+        color: black;
+        top: 20px;
+        left: 50px;
+    }
+    .year1-mt-heading-p{
+        position: relative;  
+        text-align: center;
+        font-family: Comic Sans MS, Comic Sans, cursive;
+        width: 100px;
+        height: 50px;
+        font-size: 150%;
+    }         
+    .sub-year-1-mt-content-p{
+        position: relative;
+        width: 260px;
+        height: 460px;
+        top: 40px;
+        left: 20px;
+    }
+    .year1-mt-content-p{
+        position: relative;
+        width: 260px;
+        height: 460px;
+    }
+    .year1-mt-subjects-p{
+        position: relative;
+        width: 220px;
+        height: 460px;
+        list-style: circle;
+    }
+    .year1-mt-subject-1-p{
+        position: relative;
+        width: 220px;
+        height: 50px;
+    }
+    .year1-mt-subject-1-p:hover{
+        list-style: disc;
+    }
+    .subject1-year1-mt-p{
+        position: relative;
+        width: 220px;
+        height: 50px;
+    }
+    .year1-mt-subject1-link-p{
+        position: relative;
+        width: 220px;
+        height: 30px;
+        text-decoration: none;
+        color: black;
+    }
+    .year1-mt-sub-heading1-p{
+        position: relative;
+        width: 220px;
+        height: 30px;
+        text-align: left;
+        font-family: Comic Sans MS;
+        font-size: 125%;
+    }
+    .year1-mt-subject-2-p{
+        position: relative;
+        width: 220px;
+        height: 50px;
+    }
+    .year1-mt-subject-2-p:hover{
+        list-style: disc;
+    }
+    .subject2-year1-mt-p{
+        position: relative;
+        width: 220px;
+        height: 50px;
+    }
+    .year1-mt-subject2-link-p{
+        position: relative;
+        width: 220px;
+        height: 30px;
+        text-decoration: none;
+        color: black;
+    }
+    .year1-mt-sub-heading2-p{
+        position: relative;
+        width: 220px;
+        height: 30px;
+        text-align: left;
+        font-family: Comic Sans MS;
+        font-size: 125%;
+    }
+    .year1-mt-subject-3-p{
+        position: relative;
+        width: 220px;
+        height: 50px;
+    }
+    .year1-mt-subject-3-p:hover{
+        list-style: disc;
+    }
+    .subject3-year1-mt-p{
+        position: relative;
+        width: 220px;
+        height: 50px;
+    }
+    .year1-mt-subject3-link-p{
+        position: relative;
+        width: 220px;
+        height: 30px;
+        text-decoration: none;
+        color: black;
+    }
+    .year1-mt-sub-heading3-p{
+        position: relative;
+        width: 220px;
+        height: 30px;
+        text-align: left;
+        font-family: Comic Sans MS;
+        font-size: 125%;
+    }
+    .year1-mt-subject-4-p{
+        position: relative;
+        width: 220px;
+        height: 50px;
+    }
+    .year1-mt-subject-4-p:hover{
+        list-style: disc;
+    }
+    .subject4-year1-mt-p{
+        position: relative;
+        width: 220px;
+        height: 50px;
+    }
+    .year1-mt-subject4-link-p{
+        position: relative;
+        width: 220px;
+        height: 30px;
+        text-decoration: none;
+        color: black;
+    }
+    .year1-mt-sub-heading4-p{
+        position: relative;
+        width: 220px;
+        height: 30px;
+        text-align: left;
+        font-family: Comic Sans MS;
+        font-size: 125%;
+    }
+    .year1-mt-subject-5-p{
+        position: relative;
+        width: 220px;
+        height: 50px;
+    }
+    .year1-mt-subject-5-p:hover{
+        list-style: disc;
+    }
+    .subject5-year1-mt-p{
+        position: relative;
+        width: 220px;
+        height: 50px;
+    }
+    .year1-mt-subject5-link-p{
+        position: relative;
+        width: 220px;
+        height: 30px;
+        text-decoration: none;
+        color: black;
+    }
+    .year1-mt-sub-heading5-p{
+        position: relative;
+        width: 220px;
+        height: 30px;
+        text-align: left;
+        font-family: Comic Sans MS;
+        font-size: 125%;
+    }
+    .year1-mt-subject-6-p{
+        position: relative;
+        width: 220px;
+        height: 50px;
+    }
+    .year1-mt-subject-6-p:hover{
+        list-style: disc;
+    }
+    .subject6-year1-mt-p{
+        position: relative;
+        width: 220px;
+        height: 50px;
+    }
+    .year1-mt-subject6-link-p{
+        position: relative;
+        width: 220px;
+        height: 30px;
+        text-decoration: none;
+        color: black;
+    }
+    .year1-mt-sub-heading6-p{
+        position: relative;
+        width: 220px;
+        height: 30px;
+        text-align: left;
+        font-family: Comic Sans MS;
+        font-size: 125%;
+    }
+    .college-second-sub-year-mt-p{
+        position: relative;
+        width: 280px;
+        height: 600px;
+        background-color: #006666;
+        border-radius: 30px;
+        left: 355px;
+        top: -596px;
+        box-shadow: 2px 2px 2px 2px #8c8c8c;
+    }
+    .collge-sub-year-2-mt-p{
+        position: relative;
+        width: 100%;
+        height: 600px;
+    }
+    .college-sub-2-mt-p{
+        position: relative;
+        width: 280px;
+        height: 600px;
+    }
+    .sub-year-2-mt-p{
+        position: relative;
+        width: 200px;
+        height: 70px;
+        border-radius: 50px;
+        background-color: #003333;
+        top: 20px;
+        left: 40px;
+        box-shadow: 1px 1px 1px 1px #8c8c8c;
+    }
+    .year-2-mt-p{
+        position: relative;
+        width: 100px;
+        height: 50px;
+        color: black;
+        top: 20px;
+        left: 50px;
+    }
+    .year2-mt-heading-p{
+        position: relative;  
+        text-align: center;
+        font-family: Comic Sans MS;
+        width: 100px;
+        height: 50px;
+        font-size: 150%;
+    }         
+    .sub-year-2-mt-content-p{
+        position: relative;
+        width: 260px;
+        height: 460px;
+        top: 40px;
+        left: 20px;
+    }
+    .year2-mt-content-p{
+        position: relative;
+        width: 100%;
+        height: 460px;
+    }
+    .year2-mt-subjects-p{
+        position: relative;
+        width: 220px;
+        height: 460px;
+        list-style: circle;
+    }
+    .year2-mt-subject-1-p{
+        position: relative;
+        width: 220px;
+        height: 50px;
+    }
+    .year2-mt-subject-1-p:hover{
+        list-style: disc;
+    }
+    .subject1-year2-mt-p{
+        position: relative;
+        width: 220px;
+        height: 50px;
+    }
+    .year2-mt-subject1-link-p{
+        position: relative;
+        width: 220px;
+        height: 30px;
+        text-decoration: none;
+        color: black;
+    }
+    .year2-mt-sub-heading1-p{
+        position: relative;
+        width: 220px;
+        height: 30px;
+        text-align: left;
+        font-family: Comic Sans MS;
+        font-size: 125%;
+    }
+    .year2-mt-subject-2-p{
+        position: relative;
+        width: 220px;
+        height: 50px;
+    }
+    .year2-mt-subject-2-p:hover{
+        list-style: disc;
+    }
+    .subject2-year2-mt-p{
+        position: relative;
+        width: 220px;
+        height: 50px;
+    }
+    .year2-mt-subject2-link-p{
+        position: relative;
+        width: 220px;
+        height: 30px;
+        text-decoration: none;
+        color: black;
+    }
+    .year2-mt-sub-heading2-p{
+        position: relative;
+        width: 220px;
+        height: 30px;
+        text-align: left;
+        font-family: Comic Sans MS;
+        font-size: 125%;
+    }
+    .year2-mt-subject-3-p{
+        position: relative;
+        width: 220px;
+        height: 50px;
+    }
+    .year2-mt-subject-3-p:hover{
+        list-style: disc;
+    }
+    .subject3-year2-mt-p{
+        position: relative;
+        width: 220px;
+        height: 50px;
+    }
+    .year2-mt-subject3-link-p{
+        position: relative;
+        width: 220px;
+        height: 30px;
+        text-decoration: none;
+        color: black;
+    }
+    .year2-mt-sub-heading3-p{
+        position: relative;
+        width: 220px;
+        height: 30px;
+        text-align: left;
+        font-family: Comic Sans MS;
+        font-size: 125%;
+    }
+    .year2-mt-subject-4-p{
+        position: relative;
+        width: 220px;
+        height: 50px;
+    }
+    .year2-mt-subject-4-p:hover{
+        list-style: disc;
+    }
+    .subject4-year2-mt-p{
+        position: relative;
+        width: 220px;
+        height: 50px;
+    }
+    .year2-mt-subject4-link-p{
+        position: relative;
+        width: 220px;
+        height: 30px;
+        text-decoration: none;
+        color: black;
+    }
+    .year2-mt-sub-heading4-p{
+        position: relative;
+        width: 220px;
+        height: 30px;
+        text-align: left;
+        font-family: Comic Sans MS;
+        font-size: 125%;
+    }
+    .year2-mt-subject-5-p{
+        position: relative;
+        width: 220px;
+        height: 50px;
+    }
+    .year2-mt-subject-5-p:hover{
+        list-style: disc;
+    }
+    .subject5-year2-mt-p{
+        position: relative;
+        width: 220px;
+        height: 50px;
+    }
+    .year2-mt-subject5-link-p{
+        position: relative;
+        width: 220px;
+        height: 30px;
+        text-decoration: none;
+        color: black;
+    }
+    .year2-mt-sub-heading5-p{
+        position: relative;
+        width: 220px;
+        height: 30px;
+        text-align: left;
+        font-family: Comic Sans MS;
+        font-size: 125%;
+    }
+    .year2-mt-subject-6-p{
+        position: relative;
+        width: 220px;
+        height: 50px;
+    }
+    .year2-mt-subject-6-p:hover{
+        list-style: disc;
+    }
+    .subject6-year2-mt-p{
+        position: relative;
+        width: 220px;
+        height: 50px;
+    }
+    .year2-mt-subject6-link-p{
+        position: relative;
+        width: 220px;
+        height: 30px;
+        text-decoration: none;
+        color: black;
+    }
+    .year2-mt-sub-heading6-p{
+        position: relative;
+        width: 220px;
+        height: 30px;
+        text-align: left;
+        font-family: Comic Sans MS;
+        font-size: 125%;
+    }
+}
