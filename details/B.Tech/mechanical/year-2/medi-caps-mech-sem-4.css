@@ -1,0 +1,2608 @@
+            .document-name{
+                font-family: 'Comic Neue', cursive;
+                top: 50px;
+                font-size: 16px;
+                align-items: center;
+
+            }
+            .document-name-1-v{
+                top: 20px;
+                font-family: 'Comic Neue', cursive;
+            }
+            .college-course-content-v{
+                position: relative;
+                width: 1330px;
+                border-radius: 20px;
+                top: 0px;
+            }
+            .college-courses-content-main-v{
+                position: relative;
+                width: 1250px;
+                background-color: #d6d6d6;
+                border-radius: 30px;
+                left: 30px;
+                box-shadow: 2px 2px 5px 5px #999999;
+            }
+            .college-content-notes-1-v{
+                position: relative;
+                width: 1250px;
+                height: 243px;
+                left: 30px;
+            }
+            .collge-notes-1-v{
+                position: relative;
+                width: 1250px;
+                height: 243px;
+            }
+            .college-notes-content-1-v{
+                position: relative;
+                width: 1250px;
+                height: 243px;
+            }
+            .notes-content-1-v{
+                position: relative;
+                width: 1250px;
+                height: 243px;
+            }
+            .notes-main-1-v{
+                position: relative;
+                width: 1250px;
+                height: 243px;
+            }
+            .notes-list-1-v{
+                position: relative;
+                width: 1200px;
+                height: 243px;
+                list-style: none;
+                display: grid;
+                grid-template-areas:
+                'notes1-1 notes2-1 notes3-1 notes4-1' ;
+            }
+            .clg-notes1-1-v{
+                position: relative;
+                width: 200px;
+                height: 243px;
+                border-radius: 20px;
+                grid-area: notes1-1;
+            }
+            .notes1-1-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+                z-index: 5;
+                top: 20px;
+            }
+            .list1-note1-link-v{
+                position: relative;
+                width: 100px;
+                height: 200px;
+                border-radius: 20px;
+            }
+            .list1-note1-img-v{
+                position: relative;
+                height: 150px;
+                width: 200px;
+                border-top-right-radius: 20px;
+                border-top-left-radius: 20px;
+            }
+            .embeded-list1-note1-v{
+                position: relative;
+                width: 200px;
+                height: 50px;
+                background-color: #006666;
+                text-align: center;
+                top: -25px;
+                border-bottom-left-radius: 20px;
+                border-bottom-right-radius: 20px;
+            }
+            .notes-pdf1-1-v{
+                display: none;
+                height: 100%;
+                width: 100%;
+                position: relative;
+                top: 0px;
+                left: 0px;
+                background-color: rgba(0, 0, 0, 0.9);
+            }
+            .notes-pdf1-1-v-inner{
+                width: 60%;
+                height: 100%;
+                position: relative;
+                left: 20%;
+                top: 0%;
+                background-color: #d6d6d6;
+            }
+            .clg-notes2-1-v{
+                position: relative;
+                width: 200px;
+                height: 243px;
+                border-radius: 20px;
+                grid-area: notes2-1;
+            }
+            .notes2-1-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+                top: 20px;
+            }
+            .list1-note2-link-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+            }
+            .list1-note2-img-v{
+                position: relative;
+                height: 150px;
+                width: 200px;
+                border-top-right-radius: 20px;
+                border-top-left-radius: 20px;
+            }
+            .embeded-list1-note2-v{
+                position: relative;
+                width: 200px;
+                height: 50px;
+                background-color: #006666;
+                text-align: center;
+                top: -25px;
+                border-bottom-left-radius: 20px;
+                border-bottom-right-radius: 20px;
+            }
+            .notes-pdf2-1-v{
+                display: none;
+                height: 100%;
+                width: 100%;
+                position: relative;
+                top: 0px;
+                left: 0px;
+                background-color: rgba(0, 0, 0, 0.9);
+            }
+            .notes-pdf2-1-v-inner{
+                width: 60%;
+                height: 100%;
+                position: relative;
+                left: 20%;
+                top: 0%;
+                background-color: #d6d6d6;
+            }
+            .clg-notes3-1-v{
+                position: relative;
+                width: 200px;
+                height: 243px;
+                border-radius: 20px;
+                grid-area: notes3-1;
+            }
+            .notes3-1-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+                top: 20px;
+            }
+            .list1-note3-link-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+            }
+            .list1-note3-img-v{
+                position: relative;
+                height: 150px;
+                width: 200px;
+                border-top-right-radius: 20px;
+                border-top-left-radius: 20px;
+            }
+            .embeded-list1-note3-v{
+                position: relative;
+                width: 200px;
+                height: 50px;
+                background-color: #006666;
+                text-align: center;
+                top: -25px;
+                border-bottom-left-radius: 20px;
+                border-bottom-right-radius: 20px;
+            }
+            .notes-pdf3-1-v{
+                display: none;
+                height: 100%;
+                width: 100%;
+                position: relative;
+                top: 0px;
+                left: 0px;
+                background-color: rgba(0, 0, 0, 0.9);
+            }
+            .notes-pdf3-1-v-inner{
+                width: 60%;
+                height: 100%;
+                position: relative;
+                left: 20%;
+                top: 0%;
+                background-color: #d6d6d6;
+            }
+            .clg-notes4-1-v{
+                position: relative;
+                width: 200px;
+                height: 243px;
+                border-radius: 20px;
+                grid-area: notes4-1;
+            }
+            .notes4-1-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+                top: 20px;
+            }
+            .list1-note4-link-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+            }
+            .list1-note4-img-v{
+                position: relative;
+                height: 150px;
+                width: 200px;
+                border-top-right-radius: 20px;
+                border-top-left-radius: 20px;
+            }
+            .embeded-list1-note4-v{
+                position: relative;
+                width: 200px;
+                height: 50px;
+                background-color: #006666;
+                text-align: center;
+                top: -25px;
+                border-bottom-left-radius: 20px;
+                border-bottom-right-radius: 20px;
+            }
+            .notes-pdf4-1-v{
+                display: none;
+                height: 100%;
+                width: 100%;
+                position: relative;
+                top: 0px;
+                left: 0px;
+                background-color: rgba(0, 0, 0, 0.9);
+            }
+            .notes-pdf4-1-v-inner{
+                width: 60%;
+                height: 100%;
+                position: relative;
+                left: 20%;
+                top: 0%;
+                background-color: #d6d6d6;
+            }
+            .college-content-notes-2-v{
+                position: relative;
+                width: 1250px;
+                left: 30px;
+            }
+            .collge-notes-2-v{
+                position: relative;
+                width: 1250px;
+            }
+            .college-notes-content-2-v{
+                position: relative;
+                width: 1250px;
+            }
+            .notes-content-2-v{
+                position: relative;
+                width: 1250px;
+            }
+            .notes-main-2-v{
+                position: relative;
+                width: 1250px;
+            }
+            .notes-list-2-v{
+                position: relative;
+                width: 1200px;
+                height: 243px;
+                display: grid;
+                list-style: none;
+                grid-template-areas:
+                'notes1-2 notes2-2 notes3-2 notes4-2' ;
+                background-color: inherit;
+            }
+            .clg-notes1-2-v{
+                position: relative;
+                width: 200px;
+                height: 243px;
+                border-radius: 20px;
+                grid-area: notes1-2;
+            }
+            .notes1-2-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+                top: 20px;
+            }
+            .list2-general-v > a{
+                display: inline;
+            }
+            .list2-note1-link-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+            }
+            .list2-note1-img-v{
+                position: relative;
+                height: 150px;
+                width: 200px;
+                border-top-right-radius: 20px;
+                border-top-left-radius: 20px;
+            }
+            .embeded-list2-note1-v{
+                position: relative;
+                width: 200px;
+                height: 50px;
+                background-color: #006666;
+                text-align: center;
+                top: -25px;
+                border-bottom-left-radius: 20px;
+                border-bottom-right-radius: 20px;
+            }
+            .notes-pdf1-2-v{
+                display: none;
+                height: 100%;
+                width: 100%;
+                position: relative;
+                top: 0px;
+                left: 0px;
+                background-color: rgba(0, 0, 0, 0.9);
+            }
+            .notes-pdf1-2-v-inner{
+                width: 60%;
+                height: 100%;
+                position: relative;
+                left: 20%;
+                top: 0%;
+                background-color: #d6d6d6;
+            }
+            .clg-notes2-2-v{
+                position: relative;
+                width: 200px;
+                height: 243px;
+                border-radius: 20px;
+                grid-area: notes2-2;
+            }
+            .notes2-2-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+                top: 20px;
+            }
+            .list2-note2-link-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+            }
+            .list2-note2-img-v{
+                position: relative;
+                height: 150px;
+                width: 200px;
+                border-top-right-radius: 20px;
+                border-top-left-radius: 20px;
+            }
+            .embeded-list2-note2-v{
+                position: relative;
+                width: 200px;
+                height: 50px;
+                background-color: #006666;
+                text-align: center;
+                top: -25px;
+                border-bottom-left-radius: 20px;
+                border-bottom-right-radius: 20px;
+            }
+            .notes-pdf2-2-v{
+                display: none;
+                height: 100%;
+                width: 100%;
+                position: relative;
+                top: 0px;
+                left: 0px;
+                background-color: rgba(0, 0, 0, 0.9);
+            }
+            .notes-pdf2-2-v-inner{
+                width: 60%;
+                height: 100%;
+                position: relative;
+                left: 20%;
+                top: 0%;
+                background-color: #d6d6d6;
+            }
+            .clg-notes3-2-v{
+                position: relative;
+                width: 200px;
+                height: 243px;
+                border-radius: 20px;
+                grid-area: notes3-2;
+            }
+            .notes3-2-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+                top: 20px;
+            }
+            .list2-note3-link-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+            }
+            .list2-note3-img-v{
+                position: relative;
+                height: 150px;
+                width: 200px;
+                border-top-right-radius: 20px;
+                border-top-left-radius: 20px;
+            }
+            .embeded-list2-note3-v{
+                position: relative;
+                width: 200px;
+                height: 50px;
+                background-color: #006666;
+                text-align: center;
+                top: -25px;
+                border-bottom-left-radius: 20px;
+                border-bottom-right-radius: 20px;
+            }
+            .notes-pdf3-2-v{
+                display: none;
+                height: 100%;
+                width: 100%;
+                position: relative;
+                top: 0px;
+                left: 0px;
+                background-color: rgba(0, 0, 0, 0.9);
+            }
+            .notes-pdf3-2-v-inner{
+                width: 60%;
+                height: 100%;
+                position: relative;
+                left: 20%;
+                top: 0%;
+                background-color: #d6d6d6;
+            }
+            .clg-notes4-2-v{
+                position: relative;
+                width: 200px;
+                height: 243px;
+                border-radius: 20px;
+                grid-area: notes4-2;
+            }
+            .notes4-2-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+                top: 20px;
+            }
+            .list2-note4-link-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+            }
+            .list2-note4-img-v{
+                position: relative;
+                height: 150px;
+                width: 200px;
+                border-top-right-radius: 20px;
+                border-top-left-radius: 20px;
+            }
+            .embeded-list2-note4-v{
+                position: relative;
+                width: 200px;
+                height: 50px;
+                background-color: #006666;
+                text-align: center;
+                top: -25px;
+                border-bottom-left-radius: 20px;
+                border-bottom-right-radius: 20px;
+            }
+            .notes-pdf4-2-v{
+                display: none;
+                height: 100%;
+                width: 100%;
+                position: relative;
+                top: 0px;
+                left: 0px;
+                background-color: rgba(0, 0, 0, 0.9);
+            }
+            .notes-pdf4-2-v-inner{
+                width: 60%;
+                height: 100%;
+                position: relative;
+                left: 20%;
+                top: 0%;
+                background-color: #d6d6d6;
+            }
+            .college-content-notes-3-v{
+                position: relative;
+                width: 1250px;
+                left: 30px;
+            }
+            .collge-notes-3-v{
+                position: relative;
+                width: 100%;
+            }
+            .college-notes-content-3-v{
+                position: relative;
+                width: 100%;
+            }
+            .notes-content-3-v{
+                position: relative;
+                width: 1250px;
+            }
+            .notes-main-3-v{
+                position: relative;
+                width: 1250px;
+            }
+            .notes-list-3-v{
+                position: relative;
+                width: 1200px;
+                height: 243px;
+                display: grid;
+                list-style: none;
+                grid-template-areas:
+                'notes1-3 notes2-3 notes3-3 notes4-3' ;
+                background-color: inherit;
+            }
+            .clg-notes1-3-v{
+                position: relative;
+                width: 200px;
+                height: 243px;
+                border-radius: 20px;
+                grid-area: notes1-3;
+            }
+            .notes1-3-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+                top: 20px;
+            }
+            .list3-general-v > a{
+                display: inline;
+            }
+            .list3-note1-link-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+            }
+            .list3-note1-img-v{
+                position: relative;
+                height: 150px;
+                width: 200px;
+                border-top-right-radius: 20px;
+                border-top-left-radius: 20px;
+            }
+            .embeded-list3-note1-v{
+                position: relative;
+                width: 200px;
+                height: 50px;
+                background-color: #006666;
+                text-align: center;
+                top: -25px;
+                border-bottom-left-radius: 20px;
+                border-bottom-right-radius: 20px;
+            }
+            .notes-pdf1-3-v{
+                display: none;
+                height: 100%;
+                width: 100%;
+                position: relative;
+                top: 0px;
+                left: 0px;
+                background-color: rgba(0, 0, 0, 0.9);
+            }
+            .notes-pdf1-3-v-inner{
+                width: 60%;
+                height: 100%;
+                position: relative;
+                left: 20%;
+                top: 0%;
+                background-color: #d6d6d6;
+            }
+            .clg-notes2-3-v{
+                position: relative;
+                width: 200px;
+                height: 243px;
+                border-radius: 20px;
+                grid-area: notes2-3;
+            }
+            .notes2-3-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+                top: 20px;
+            }
+            .list3-note2-link-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+            }
+            .list3-note2-img-v{
+                position: relative;
+                height: 150px;
+                width: 200px;
+                border-top-right-radius: 20px;
+                border-top-left-radius: 20px;
+            }
+            .embeded-list3-note2-v{
+                position: relative;
+                width: 200px;
+                height: 50px;
+                background-color: #006666;
+                text-align: center;
+                top: -25px;
+                border-bottom-left-radius: 20px;
+                border-bottom-right-radius: 20px;
+            }
+            .notes-pdf2-3-v{
+                display: none;
+                height: 100%;
+                width: 100%;
+                position: relative;
+                top: 0px;
+                left: 0px;
+                background-color: rgba(0, 0, 0, 0.9);
+            }
+            .notes-pdf2-3-v-inner{
+                width: 60%;
+                height: 100%;
+                position: relative;
+                left: 20%;
+                top: 0%;
+                background-color: #d6d6d6;
+            }
+            .clg-notes3-3-v{
+                position: relative;
+                width: 200px;
+                height: 243px;
+                border-radius: 20px;
+                grid-area: notes3-3;
+            }
+            .notes3-3-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+                top: 20px;
+            }
+            .list3-note3-link-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+            }
+            .list3-note3-img-v{
+                position: relative;
+                height: 150px;
+                width: 200px;
+                border-top-right-radius: 20px;
+                border-top-left-radius: 20px;
+            }
+            .embeded-list3-note3-v{
+                position: relative;
+                width: 200px;
+                height: 50px;
+                background-color: #006666;
+                text-align: center;
+                top: -25px;
+                border-bottom-left-radius: 20px;
+                border-bottom-right-radius: 20px;
+            }
+            .notes-pdf3-3-v{
+                display: none;
+                height: 100%;
+                width: 100%;
+                position: relative;
+                top: 0px;
+                left: 0px;
+                background-color: rgba(0, 0, 0, 0.9);
+            }
+            .notes-pdf3-3-v-inner{
+                width: 60%;
+                height: 100%;
+                position: relative;
+                left: 20%;
+                top: 0%;
+                background-color: #d6d6d6;
+            }
+            .clg-notes4-3-v{
+                position: relative;
+                width: 200px;
+                height: 243px;
+                border-radius: 20px;
+                grid-area: notes4-3;
+            }
+            .notes4-3-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+                top: 20px;
+            }
+            .list3-note4-link-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+            }
+            .list3-note4-img-v{
+                position: relative;
+                height: 150px;
+                width: 200px;
+                border-top-right-radius: 20px;
+                border-top-left-radius: 20px;
+            }
+            .embeded-list3-note4-v{
+                position: relative;
+                width: 200px;
+                height: 50px;
+                background-color: #006666;
+                text-align: center;
+                top: -25px;
+                border-bottom-left-radius: 20px;
+                border-bottom-right-radius: 20px;
+            }
+            .notes-pdf4-3-v{
+                display: none;
+                height: 100%;
+                width: 100%;
+                position: relative;
+                top: 0px;
+                left: 0px;
+                background-color: rgba(0, 0, 0, 0.9);
+            }
+            .notes-pdf4-3-v-inner{
+                width: 60%;
+                height: 100%;
+                position: relative;
+                left: 20%;
+                top: 0%;
+                background-color: #d6d6d6;
+            }
+            .college-content-notes-4-v{
+                position: relative;
+                width: 1250px;
+                left: 30px;
+            }
+            .collge-notes-4-v{
+                position: relative;
+                width: 1250px;
+            }
+            .college-notes-content-4-v{
+                position: relative;
+                width: 1250px;
+            }
+            .notes-content-4-v{
+                position: relative;
+                width: 1250px;
+            }
+            .notes-main-4-v{
+                position: relative;
+                width: 1250px;
+            }
+            .notes-list-4-v{
+                position: relative;
+                width: 1200px;
+                height: 243px;
+                display: grid;
+                list-style: none;
+                grid-template-areas:
+                'notes1-4 notes2-4 notes3-4 notes4-4' ;
+                background-color: inherit;
+            }
+            .clg-notes1-4-v{
+                position: relative;
+                width: 200px;
+                height: 243px;
+                border-radius: 20px;
+                grid-area: notes1-4;
+            }
+            .notes1-4-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+                top: 20px;
+            }
+            .list4-general-v > a{
+                display: inline;
+            }
+            .list4-note1-link-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+            }
+            .list4-note1-img-v{
+                position: relative;
+                height: 150px;
+                width: 200px;
+                border-top-right-radius: 20px;
+                border-top-left-radius: 20px;
+            }
+            .embeded-list4-note1-v{
+                position: relative;
+                width: 200px;
+                height: 50px;
+                background-color: #006666;
+                text-align: center;
+                top: -25px;
+                border-bottom-left-radius: 20px;
+                border-bottom-right-radius: 20px;
+            }
+            .notes-pdf1-4-v{
+                display: none;
+                height: 100%;
+                width: 100%;
+                position: relative;
+                top: 0px;
+                left: 0px;
+                background-color: rgba(0, 0, 0, 0.9);
+            }
+            .notes-pdf1-4-v-inner{
+                width: 60%;
+                height: 100%;
+                position: relative;
+                left: 20%;
+                top: 0%;
+                background-color: #d6d6d6;
+            }
+            .clg-notes2-4-v{
+                position: relative;
+                width: 200px;
+                height: 243px;
+                border-radius: 20px;
+                grid-area: notes2-4;
+            }
+            .notes2-4-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+                top: 20px;
+            }
+            .list4-note2-link-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+            }
+            .list4-note2-img-v{
+                position: relative;
+                height: 150px;
+                width: 200px;
+                border-top-right-radius: 20px;
+                border-top-left-radius: 20px;
+            }
+            .embeded-list4-note2-v{
+                position: relative;
+                width: 200px;
+                height: 50px;
+                background-color: #006666;
+                text-align: center;
+                top: -25px;
+                border-bottom-left-radius: 20px;
+                border-bottom-right-radius: 20px;
+            }
+            .notes-pdf2-4-v{
+                display: none;
+                height: 100%;
+                width: 100%;
+                position: relative;
+                top: 0px;
+                left: 0px;
+                background-color: rgba(0, 0, 0, 0.9);
+            }
+            .notes-pdf2-4-v-inner{
+                width: 60%;
+                height: 100%;
+                position: relative;
+                left: 20%;
+                top: 0%;
+                background-color: #d6d6d6;
+            }
+            .clg-notes3-4-v{
+                position: relative;
+                width: 200px;
+                height: 243px;
+                border-radius: 20px;
+                grid-area: notes3-4;
+            }
+            .notes3-4-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+                top: 20px;
+            }
+            .list4-note3-link-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+            }
+            .list4-note3-img-v{
+                position: relative;
+                height: 150px;
+                width: 200px;
+                border-top-right-radius: 20px;
+                border-top-left-radius: 20px;
+            }
+            .embeded-list4-note3-v{
+                position: relative;
+                width: 200px;
+                height: 50px;
+                background-color: #006666;
+                text-align: center;
+                top: -25px;
+                border-bottom-left-radius: 20px;
+                border-bottom-right-radius: 20px;
+            }
+            .notes-pdf3-4-v{
+                display: none;
+                height: 100%;
+                width: 100%;
+                position: relative;
+                top: 0px;
+                left: 0px;
+                background-color: rgba(0, 0, 0, 0.9);
+            }
+            .notes-pdf3-4-v-inner{
+                width: 60%;
+                height: 100%;
+                position: relative;
+                left: 20%;
+                top: 0%;
+                background-color: #d6d6d6;
+            }
+            .clg-notes4-4-v{
+                position: relative;
+                width: 200px;
+                height: 243px;
+                border-radius: 20px;
+                grid-area: notes4-4;
+            }
+            .notes4-4-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+                top: 20px;
+            }
+            .list4-note4-link-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+            }
+            .list4-note4-img-v{
+                position: relative;
+                height: 150px;
+                width: 200px;
+                border-top-right-radius: 20px;
+                border-top-left-radius: 20px;
+            }
+            .embeded-list4-note4-v{
+                position: relative;
+                width: 200px;
+                height: 50px;
+                background-color: #006666;
+                text-align: center;
+                top: -25px;
+                border-bottom-left-radius: 20px;
+                border-bottom-right-radius: 20px;
+            }
+            .notes-pdf4-4-v{
+                display: none;
+                height: 100%;
+                width: 100%;
+                position: relative;
+                top: 0px;
+                left: 0px;
+                background-color: rgba(0, 0, 0, 0.9);
+            }
+            .notes-pdf4-4-v-inner{
+                width: 60%;
+                height: 100%;
+                position: relative;
+                left: 20%;
+                top: 0%;
+                background-color: #d6d6d6;
+            }
+            .college-content-notes-5-v{
+                position: relative;
+                width: 1250px;
+                left: 30px;
+            }
+            .collge-notes-5-v{
+                position: relative;
+                width: 1250px;
+            }
+            .college-notes-content-5-v{
+                position: relative;
+                width: 1250px;
+            }
+            .notes-content-5-v{
+                position: relative;
+                width: 1250px;
+            }
+            .notes-main-5-v{
+                position: relative;
+                width: 1250px;
+            }
+            .notes-list-5-v{
+                position: relative;
+                width: 1200px;
+                height: 243px;
+                display: grid;
+                list-style: none;
+                grid-template-areas:
+                'notes1-5 notes2-5 notes3-5 notes4-5' ;
+                background-color: inherit;
+            }
+            .clg-notes1-5-v{
+                position: relative;
+                width: 200px;
+                height: 243px;
+                border-radius: 20px;
+                grid-area: notes1-5;
+            }
+            .notes1-5-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+                top: 20px;
+            }
+            .list5-general > a{
+                display: inline;
+            }
+            .list5-note1-link-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+            }
+            .list5-note1-img-v{
+                position: relative;
+                height: 150px;
+                width: 200px;
+                border-top-right-radius: 20px;
+                border-top-left-radius: 20px;
+            }
+            .embeded-list5-note1-v{
+                position: relative;
+                width: 200px;
+                height: 50px;
+                background-color: #006666;
+                text-align: center;
+                top: -25px;
+                font-family: 'Comic Neue', cursive;
+                font-size: 15px;
+                border-bottom-left-radius: 20px;
+                border-bottom-right-radius: 20px;
+            }
+            .notes-pdf1-5-v{
+                display: none;
+                height: 100%;
+                width: 100%;
+                position: relative;
+                top: 0px;
+                left: 0px;
+                background-color: rgba(0, 0, 0, 0.9);
+            }
+            .notes-pdf1-5-v-inner{
+                width: 60%;
+                height: 100%;
+                position: relative;
+                left: 20%;
+                top: 0%;
+                background-color: #d6d6d6;
+            }
+            .clg-notes2-5-v{
+                position: relative;
+                width: 200px;
+                height: 243px;
+                border-radius: 20px;
+                grid-area: notes2-5;
+            }
+            .notes2-5-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+                top: 20px;
+            }
+            .list5-note2-link-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+            }
+            .list5-note2-img-v{
+                position: relative;
+                height: 150px;
+                width: 200px;
+                border-top-right-radius: 20px;
+                border-top-left-radius: 20px;
+            }
+            .embeded-list5-note2-v{
+                position: relative;
+                width: 200px;
+                height: 50px;
+                background-color: #006666;
+                text-align: center;
+                top: -25px;
+                font-family: 'Comic Neue', cursive;
+                font-size: 15px;
+                border-bottom-left-radius: 20px;
+                border-bottom-right-radius: 20px;
+            }
+            .notes-pdf2-5-v{
+                display: none;
+                height: 100%;
+                width: 100%;
+                position: relative;
+                top: 0px;
+                left: 0px;
+                background-color: rgba(0, 0, 0, 0.9);
+            }
+            .notes-pdf2-5-v-inner{
+                width: 60%;
+                height: 100%;
+                position: relative;
+                left: 20%;
+                top: 0%;
+                background-color: #d6d6d6;
+            }
+            .clg-notes3-5-v{
+                position: relative;
+                width: 200px;
+                height: 243px;
+                border-radius: 20px;
+                grid-area: notes3-5;
+            }
+            .notes3-5-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+                top: 20px;
+            }
+            .list5-note3-link-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+            }
+            .list5-note3-img-v{
+                position: relative;
+                height: 150px;
+                width: 200px;
+                border-top-right-radius: 20px;
+                border-top-left-radius: 20px;
+            }
+            .embeded-list5-note3-v{
+                position: relative;
+                width: 200px;
+                height: 50px;
+                background-color: #006666;
+                text-align: center;
+                top: -25px;
+                font-family: 'Comic Neue', cursive;
+                font-size: 15px;
+                border-bottom-left-radius: 20px;
+                border-bottom-right-radius: 20px;
+            }
+            .notes-pdf3-5-v{
+                display: none;
+                height: 100%;
+                width: 100%;
+                position: relative;
+                top: 0px;
+                left: 0px;
+                background-color: rgba(0, 0, 0, 0.9);
+            }
+            .notes-pdf3-5-v-inner{
+                width: 60%;
+                height: 100%;
+                position: relative;
+                left: 20%;
+                top: 0%;
+                background-color: #d6d6d6;
+            }
+            .clg-notes4-5-v{
+                position: relative;
+                width: 200px;
+                height: 243px;
+                border-radius: 20px;
+                grid-area: notes4-5;
+            }
+            .notes4-5-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+                top: 20px;
+            }
+            .list5-note4-link-v{
+                position: relative;
+                width: 200px;
+                height: 200px;
+                border-radius: 20px;
+            }
+            .list5-note4-img-v{
+                position: relative;
+                height: 150px;
+                width: 200px;
+                border-top-right-radius: 20px;
+                border-top-left-radius: 20px;
+            }
+            .embeded-list5-note4-v{
+                position: relative;
+                width: 200px;
+                height: 50px;
+                background-color: #006666;
+                text-align: center;
+                top: -25px;
+                font-family: 'Comic Neue', cursive;
+                font-size: 15px;
+                border-bottom-left-radius: 20px;
+                border-bottom-right-radius: 20px;
+            }
+            .notes-pdf4-5-v{
+                display: none;
+                height: 100%;
+                width: 100%;
+                position: relative;
+                top: 0px;
+                left: 0px;
+                background-color: rgba(0, 0, 0, 0.9);
+            }
+            .notes-pdf4-5-v-inner{
+                width: 60%;
+                height: 100%;
+                position: relative;
+                left: 20%;
+                top: 0%;
+                background-color: #d6d6d6;
+            }            
+            @media screen and (max-width: 800px) {
+                .college-course-content-v{
+                    position: relative;
+                    width: 100%;
+                    border-radius: 20px;
+                    height: 100%;
+                    left: 0px;
+                    top: 0px;
+                }
+                .college-courses-content-main-v{
+                    position: relative;
+                    width: 100%;
+                    background-color: #e6e6e6;
+                    height: 100%;
+                    border-radius: 30px;
+                    box-shadow: 2px 2px 5px 5px #999999;
+                    left: 0px;
+                }
+                .college-content-notes-1-v{
+                    position: relative;
+                    width: 100%;
+                    height: 340px;
+                    left: -5px;
+                }
+                .collge-notes-1-v{
+                    position: relative;
+                    width: 100%;
+                    height: inherit;
+                }
+                .college-notes-content-1-v{
+                    position: relative;
+                    width: 100%;
+                    height: inherit;
+                }
+                .notes-content-1-v{
+                    position: relative;
+                    width: 100%;
+                    height: inherit;
+                }
+                .notes-main-1-v{
+                    position: relative;
+                    width: 100%;
+                    height: inherit;
+                }
+                .notes-list-1-v{
+                    position: relative;
+                    width: 95%;
+                    height: 340px;
+                    list-style: none;
+                    display: grid;
+                    left: -19px;
+                    grid-column-gap: 20px;
+                    grid-row-gap: 0px;
+                    grid-template-areas:
+                    'notes1-1 notes2-1' 
+                    'notes3-1 notes4-1' ;
+                }
+                .clg-notes1-1-v{
+                    position: relative;
+                    width: 140px;
+                    height: 150px;
+                    border-radius: 20px;
+                    grid-area: notes1-1;
+                }
+                .notes1-1-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    border-radius: 20px;
+                    z-index: 5;
+                    top: 20px;
+                }
+                .list1-note1-link-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    display: block;
+                    border-radius: 20px;
+                }
+                .list1-note1-img-v{
+                    position: relative;
+                    height: 100px;
+                    width: 140px;
+                    border-top-right-radius: 20px;
+                    border-top-left-radius: 20px;
+                }
+                .embeded-list1-note1-v{
+                    position: relative;
+                    width: 140px;
+                    height: 50px;
+                    background-color: #006666;
+                    text-align: center;
+                    top: -25px;
+                    border-bottom-left-radius: 20px;
+                    border-bottom-right-radius: 20px;
+                }
+                .notes-pdf1-1-v{
+                    display: none;
+                    height: 100%;
+                    width: 100%;
+                    position: relative;
+                    top: 0px;
+                    left: 0px;
+                    background-color: rgba(0, 0, 0, 0.9);
+                }
+                .notes-pdf1-1-v-inner{
+                    width: 70%;
+                    height: 100%;
+                    position: relative;
+                    left: 15%;
+                    top: 0%;
+                    background-color: #d6d6d6;
+                }
+                .clg-notes2-1-v{
+                    position: relative;
+                    width: 140px;
+                    height: 150px;
+                    border-radius: 20px;
+                    grid-area: notes2-1;
+                }
+                .notes2-1-v{
+                    position: relative;
+                    width:  140px;
+                    height: 100%;
+                    border-radius: 20px;
+                    top: 20px;
+                }
+                .list1-note2-link-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    display: block;
+                    border-radius: 20px;
+                }
+                .list1-note2-img-v{
+                    position: relative;
+                    height: 100px;
+                    width: 140px;
+                    border-top-right-radius: 20px;
+                    border-top-left-radius: 20px;
+                }
+                .embeded-list1-note2-v{
+                    position: relative;
+                    width: 140px;
+                    height: 50px;
+                    background-color: #006666;
+                    text-align: center;
+                    top: -25px;
+                    border-bottom-left-radius: 20px;
+                    border-bottom-right-radius: 20px;
+                }
+                .notes-pdf2-1-v{
+                    display: none;
+                    height: 100%;
+                    width: 100%;
+                    position: relative;
+                    top: 0px;
+                    left: 0px;
+                    background-color: rgba(0, 0, 0, 0.9);
+                }
+                .notes-pdf2-1-v-inner{
+                    width: 70%;
+                    height: 100%;
+                    position: relative;
+                    left: 15%;
+                    top: 0%;
+                    background-color: #e6e6e6;
+                }
+                .clg-notes3-1-v{
+                    position: relative;
+                    width: 140px;
+                    height: 150px;
+                    border-radius: 20px;
+                    grid-area: notes3-1;
+                }
+                .notes3-1-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    border-radius: 20px;
+                    top: 20px;
+                }
+                .list1-note3-link-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    display: block;
+                    border-radius: 20px;
+                }
+                .list1-note3-img-v{
+                    position: relative;
+                    height: 100px;
+                    width: 140px;
+                    border-top-right-radius: 20px;
+                    border-top-left-radius: 20px;
+                }
+                .embeded-list1-note3-v{
+                    position: relative;
+                    width: 140px;
+                    height: 50px;
+                    background-color: #006666;
+                    text-align: center;
+                    top: -25px;
+                    border-bottom-left-radius: 20px;
+                    border-bottom-right-radius: 20px;
+                }
+                .notes-pdf3-1-v{
+                    display: none;
+                    height: 100%;
+                    width: 100%;
+                    position: relative;
+                    top: 0px;
+                    left: 0px;
+                    background-color: rgba(0, 0, 0, 0.9);
+                }
+                .notes-pdf3-1-v-inner{
+                    width: 70%;
+                    height: 100%;
+                    position: relative;
+                    left: 15%;
+                    top: 0%;
+                    background-color: #d6d6d6;
+                }
+                .clg-notes4-1-v{
+                    position: relative;
+                    width: 140px;
+                    height: 150px;
+                    border-radius: 20px;
+                    grid-area: notes4-1;
+                }
+                .notes4-1-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    border-radius: 20px;
+                    top: 20px;
+                }
+                .list1-note4-link-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    display: block;
+                    border-radius: 20px;
+                }
+                .list1-note4-img-v{
+                    position: relative;
+                    height: 100px;
+                    width: 140px;
+                    border-top-right-radius: 20px;
+                    border-top-left-radius: 20px;
+                }
+                .embeded-list1-note4-v{
+                    position: relative;
+                    width: 140px;
+                    height: 50px;
+                    background-color: #006666;
+                    text-align: center;
+                    top: -25px;
+                    border-bottom-left-radius: 20px;
+                    border-bottom-right-radius: 20px;
+                }
+                .notes-pdf4-1-v{
+                    display: none;
+                    height: 100%;
+                    width: 100%;
+                    position: relative;
+                    top: 0px;
+                    left: 0px;
+                    background-color: rgba(0, 0, 0, 0.9);
+                }
+                .notes-pdf4-1-v-inner{
+                    width: 70%;
+                    height: 100%;
+                    position: relative;
+                    left: 15%;
+                    top: 0%;
+                    background-color: #d6d6d6;
+                }
+                .college-content-notes-2-v{
+                    position: relative;
+                    width: 100%;
+                    left: -5px;
+                    top: -20px;
+                    height: 340px;
+                }
+                .collge-notes-2-v{
+                    position: relative;
+                    width: 100%;
+                }
+                .college-notes-content-2-v{
+                    position: relative;
+                    width: 100%;
+                }
+                .notes-content-2-v{
+                    position: relative;
+                    width: 100%;
+                }
+                .notes-main-2-v{
+                    position: relative;
+                    width: 100%;
+                }
+                .notes-list-2-v{
+                    position: relative;
+                    width: 95%;
+                    height: 340px;
+                    display: grid;
+                    list-style: none;
+                    left: -19px;
+                    grid-column-gap: 20px;
+                    grid-row-gap: 0px;
+                    grid-template-areas:
+                    'notes1-2 notes2-2' 
+                    'notes3-2 notes4-2' ;
+                    background-color: inherit;
+                }
+                .clg-notes1-2-v{
+                    position: relative;
+                    width: 140px;
+                    height: 150px;
+                    border-radius: 20px;
+                    grid-area: notes1-2;
+                }
+                .notes1-2-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    border-radius: 20px;
+                    top: 20px;
+                }
+                .list2-general-v > a{
+                    display: inline;
+                }
+                .list2-note1-link-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    display: block;
+                    border-radius: 20px;
+                }
+                .list2-note1-img-v{
+                    position: relative;
+                    height: 100px;
+                    width: 140px;
+                    border-top-right-radius: 20px;
+                    border-top-left-radius: 20px;
+                }
+                .embeded-list2-note1-v{
+                    position: relative;
+                    width: 140px;
+                    height: 50px;
+                    background-color: #006666;
+                    text-align: center;
+                    top: -25px;
+                    border-bottom-left-radius: 20px;
+                    border-bottom-right-radius: 20px;
+                }
+                .notes-pdf1-2-v{
+                    display: none;
+                    height: 100%;
+                    width: 100%;
+                    position: relative;
+                    top: 0px;
+                    left: 0px;
+                    background-color: rgba(0, 0, 0, 0.9);
+                }
+                .notes-pdf1-2-v-inner{
+                    width: 70%;
+                    height: 100%;
+                    position: relative;
+                    left: 15%;
+                    top: 0%;
+                    background-color: #d6d6d6;
+                }
+                .clg-notes2-2-v{
+                    position: relative;
+                    width: 140px;
+                    height: 150px;
+                    border-radius: 20px;
+                    grid-area: notes2-2;
+                }
+                .notes2-2-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    border-radius: 20px;
+                    top: 20px;
+                }
+                .list2-note2-link-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    border-radius: 20px;
+                }
+                .list2-note2-img-v{
+                    position: relative;
+                    height: 100px;
+                    width: 140px;
+                    border-top-right-radius: 20px;
+                    border-top-left-radius: 20px;
+                }
+                .embeded-list2-note2-v{
+                    position: relative;
+                    width: 140px;
+                    height: 50px;
+                    background-color: #006666;
+                    text-align: center;
+                    top: -25px;
+                    border-bottom-left-radius: 20px;
+                    border-bottom-right-radius: 20px;
+                }
+                .notes-pdf2-2-v{
+                    display: none;
+                    height: 100%;
+                    width: 100%;
+                    position: relative;
+                    top: 0px;
+                    left: 0px;
+                    background-color: rgba(0, 0, 0, 0.9);
+                }
+                .notes-pdf2-2-v-inner{
+                    width: 70%;
+                    height: 100%;
+                    position: relative;
+                    left: 15%;
+                    top: 0%;
+                    background-color: #d6d6d6;
+                }
+                .clg-notes3-2-v{
+                    position: relative;
+                    width: 140px;
+                    height: 150px;
+                    border-radius: 20px;
+                    grid-area: notes3-2;
+                }
+                .notes3-2-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    border-radius: 20px;
+                    top: 20px;
+                }
+                .list2-note3-link-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    border-radius: 20px;
+                }
+                .list2-note3-img-v{
+                    position: relative;
+                    height: 100px;
+                    width: 140px;
+                    border-top-right-radius: 20px;
+                    border-top-left-radius: 20px;
+                }
+                .embeded-list2-note3-v{
+                    position: relative;
+                    width: 140px;
+                    height: 50px;
+                    background-color: #006666;
+                    text-align: center;
+                    top: -25px;
+                    border-bottom-left-radius: 20px;
+                    border-bottom-right-radius: 20px;
+                }
+                .notes-pdf3-2-v{
+                    display: none;
+                    height: 100%;
+                    width: 100%;
+                    position: relative;
+                    top: 0px;
+                    left: 0px;
+                    background-color: rgba(0, 0, 0, 0.9);
+                }
+                .notes-pdf3-2-v-inner{
+                    width: 70%;
+                    height: 100%;
+                    position: relative;
+                    left: 15%;
+                    top: 0%;
+                    background-color: #d6d6d6;
+                }
+                .clg-notes4-2-v{
+                    position: relative;
+                    width: 140px;
+                    height: 150px;
+                    border-radius: 20px;
+                    grid-area: notes4-2;
+                }
+                .notes4-2-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    border-radius: 20px;
+                    top: 20px;
+                }
+                .list2-note4-link-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    border-radius: 20px;
+                }
+                .list2-note4-img-v{
+                    position: relative;
+                    height: 100px;
+                    width: 140px;
+                    border-top-right-radius: 20px;
+                    border-top-left-radius: 20px;
+                }
+                .embeded-list2-note4-v{
+                    position: relative;
+                    width: 140px;
+                    height: 50px;
+                    background-color: #006666;
+                    text-align: center;
+                    top: -25px;
+                    border-bottom-left-radius: 20px;
+                    border-bottom-right-radius: 20px;
+                }
+                .notes-pdf4-2-v{
+                    display: none;
+                    height: 100%;
+                    width: 100%;
+                    position: relative;
+                    top: 0px;
+                    left: 0px;
+                    background-color: rgba(0, 0, 0, 0.9);
+                }
+                .notes-pdf4-2-v-inner{
+                    width: 70%;
+                    height: 100%;
+                    position: relative;
+                    left: 15%;
+                    top: 0%;
+                    background-color: #d6d6d6;
+                }
+                .college-content-notes-3-v{
+                    position: relative;
+                    width: 100%;
+                    left: -5px;
+                    top: -40px;
+                }
+                .collge-notes-3-v{
+                    position: relative;
+                    width: 100%;
+                }
+                .college-notes-content-3-v{
+                    position: relative;
+                    width: 100%;
+                }
+                .notes-content-3-v{
+                    position: relative;
+                    width: 100%;
+                }
+                .notes-main-3-v{
+                    position: relative;
+                    width: 100%;
+                }
+                .notes-list-3-v{
+                    position: relative;
+                    width: 95%;
+                    height: 340px;
+                    display: grid;
+                    list-style: none;
+                    left: -19px;
+                    grid-column-gap: 20px;
+                    grid-row-gap: 0px;
+                    grid-template-areas:
+                    'notes1-3 notes2-3' 
+                    'notes3-3 notes4-3' ;
+                    background-color: inherit;
+                }
+                .clg-notes1-3-v{
+                    position: relative;
+                    width: 140px;
+                    height: 150px;
+                    border-radius: 20px;
+                    grid-area: notes1-3;
+                }
+                .notes1-3-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    border-radius: 20px;
+                    top: 20px;
+                }
+                .list3-general-v > a{
+                    display: inline;
+                }
+                .list3-note1-link-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    border-radius: 20px;
+                }
+                .list3-note1-img-v{
+                    position: relative;
+                    height: 100px;
+                    width: 140px;
+                    border-top-right-radius: 20px;
+                    border-top-left-radius: 20px;
+                }
+                .embeded-list3-note1-v{
+                    position: relative;
+                    width: 140px;
+                    height: 50px;
+                    background-color: #006666;
+                    text-align: center;
+                    top: -25px;
+                    border-bottom-left-radius: 20px;
+                    border-bottom-right-radius: 20px;
+                }
+                .notes-pdf1-3-v{
+                    display: none;
+                    height: 100%;
+                    width: 100%;
+                    position: relative;
+                    top: 0px;
+                    left: 0px;
+                    background-color: rgba(0, 0, 0, 0.9);
+                }
+                .notes-pdf1-3-v-inner{
+                    width: 70%;
+                    height: 100%;
+                    position: relative;
+                    left: 15%;
+                    top: 0%;
+                    background-color: #d6d6d6;
+                }
+                .clg-notes2-3-v{
+                    position: relative;
+                    width: 140px;
+                    height: 150px;
+                    border-radius: 20px;
+                    grid-area: notes2-3;
+                }
+                .notes2-3-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    border-radius: 20px;
+                    top: 20px;
+                }
+                .list3-note2-link-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    border-radius: 20px;
+                }
+                .list3-note2-img-v{
+                    position: relative;
+                    height: 100px;
+                    width: 140px;
+                    border-top-right-radius: 20px;
+                    border-top-left-radius: 20px;
+                }
+                .embeded-list3-note2-v{
+                    position: relative;
+                    width: 140px;
+                    height: 50px;
+                    background-color: #006666;
+                    text-align: center;
+                    top: -25px;
+                    border-bottom-left-radius: 20px;
+                    border-bottom-right-radius: 20px;
+                }
+                .notes-pdf2-3-v{
+                    display: none;
+                    height: 100%;
+                    width: 100%;
+                    position: relative;
+                    top: 0px;
+                    left: 0px;
+                    background-color: rgba(0, 0, 0, 0.9);
+                }
+                .notes-pdf2-3-v-inner{
+                    width: 70%;
+                    height: 100%;
+                    position: relative;
+                    left: 15%;
+                    top: 0%;
+                    background-color: #d6d6d6;
+                }
+                .clg-notes3-3-v{
+                    position: relative;
+                    width: 140px;
+                    height: 150px;
+                    border-radius: 20px;
+                    grid-area: notes3-3;
+                }
+                .notes3-3-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    border-radius: 20px;
+                    top: 20px;
+                }
+                .list3-note3-link-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    display: block;
+                    border-radius: 20px;
+                }
+                .list3-note3-img-v{
+                    position: relative;
+                    height: 100px;
+                    width: 140px;
+                    border-top-right-radius: 20px;
+                    border-top-left-radius: 20px;
+                }
+                .embeded-list3-note3-v{
+                    position: relative;
+                    width: 140px;
+                    height: 50px;
+                    background-color: #006666;
+                    text-align: center;
+                    top: -25px;
+                    border-bottom-left-radius: 20px;
+                    border-bottom-right-radius: 20px;
+                }
+                .notes-pdf3-3-v{
+                    display: none;
+                    height: 1005;
+                    width: 100%;
+                    position: relative;
+                    top: 0px;
+                    left: 0px;
+                    background-color: rgba(0, 0, 0, 0.9);
+                }
+                .notes-pdf3-3-v-inner{
+                    width: 70%;
+                    height: 100%;
+                    position: relative;
+                    left: 15%;
+                    top: 0%;
+                    background-color: #d6d6d6;
+                }
+                .clg-notes4-3-v{
+                    position: relative;
+                    width: 140px;
+                    height: 150px;
+                    border-radius: 20px;
+                    grid-area: notes4-3;
+                }
+                .notes4-3-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    border-radius: 20px;
+                    top: 20px;
+                }
+                .list3-note4-link-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    display: block;
+                    border-radius: 20px;
+                }
+                .list3-note4-img-v{
+                    position: relative;
+                    height: 100px;
+                    width: 140px;
+                    border-top-right-radius: 20px;
+                    border-top-left-radius: 20px;
+                }
+                .embeded-list3-note4-v{
+                    position: relative;
+                    width: 140px;
+                    height: 50px;
+                    background-color: #006666;
+                    text-align: center;
+                    top: -25px;
+                    border-bottom-left-radius: 20px;
+                    border-bottom-right-radius: 20px;
+                }
+                .notes-pdf4-3-v{
+                    display: none;
+                    height: 100%;
+                    width: 100%;
+                    position: relative;
+                    top: 0px;
+                    left: 0px;
+                    background-color: rgba(0, 0, 0, 0.9);
+                }
+                .notes-pdf4-3-v-inner{
+                    width: 70%;
+                    height: 100%;
+                    position: relative;
+                    left: 15%;
+                    top: 0%;
+                    background-color: #d6d6d6;
+                }
+                .college-content-notes-4-v{
+                    position: relative;
+                    width: 100%;
+                    left: -5px;
+                    height: 170px;
+                    top: -60px;
+                }
+                .collge-notes-4-v{
+                    position: relative;
+                    width: 100%;
+                }
+                .college-notes-content-4-v{
+                    position: relative;
+                    width: 100%;
+                }
+                .notes-content-4-v{
+                    position: relative;
+                    width: 100%;
+                }
+                .notes-main-4-v{
+                    position: relative;
+                    width: 100%;
+                }
+                .notes-list-4-v{
+                    position: relative;
+                    width: 95%;
+                    height: 340px;
+                    display: grid;
+                    left: -19px;
+                    list-style: none;
+                    grid-column-gap: 20px;
+                    grid-row-gap: 0px;
+                    grid-template-areas:
+                    'notes1-4 notes2-4' 
+                    'notes3-4 notes4-4' ;
+                    background-color: inherit;
+                }
+                .clg-notes1-4-v{
+                    position: relative;
+                    width: 140px;
+                    height: 150px;
+                    border-radius: 20px;
+                    grid-area: notes1-4;
+                }
+                .notes1-4-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    border-radius: 20px;
+                    top: 20px;
+                }
+                .list4-general-v > a{
+                    display: inline;
+                }
+                .list4-note1-link-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    display: block;
+                    border-radius: 20px;
+                }
+                .list4-note1-img-v{
+                    position: relative;
+                    height: 100px;
+                    width: 140px;
+                    border-top-right-radius: 20px;
+                    border-top-left-radius: 20px;
+                }
+                .embeded-list4-note1-v{
+                    position: relative;
+                    width: 140px;
+                    height: 50px;
+                    background-color: #006666;
+                    text-align: center;
+                    top: -25px;
+                    border-bottom-left-radius: 20px;
+                    border-bottom-right-radius: 20px;
+                }
+                .notes-pdf1-4-v{
+                    display: none;
+                    height: 100%;
+                    width: 100%;
+                    position: relative;
+                    top: 0px;
+                    left: 0px;
+                    background-color: rgba(0, 0, 0, 0.9);
+                }
+                .notes-pdf1-4-v-inner{
+                    width: 70%;
+                    height: 100%;
+                    position: relative;
+                    left: 15%;
+                    top: 0%;
+                    background-color: #d6d6d6;
+                }
+                .clg-notes2-4-v{
+                    position: relative;
+                    width: 140px;
+                    height: 150px;
+                    border-radius: 20px;
+                    grid-area: notes2-4;
+                }
+                .notes2-4-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    border-radius: 20px;
+                    top: 20px;
+                }
+                .list4-note2-link-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    display: block;
+                    border-radius: 20px;
+                }
+                .list4-note2-img-v{
+                    position: relative;
+                    height: 100px;
+                    width: 140px;
+                    border-top-right-radius: 20px;
+                    border-top-left-radius: 20px;
+                }
+                .embeded-list4-note2-v{
+                    position: relative;
+                    width: 140px;
+                    height: 50px;
+                    background-color: #006666;
+                    text-align: center;
+                    top: -25px;
+                    border-bottom-left-radius: 20px;
+                    border-bottom-right-radius: 20px;
+                }
+                .notes-pdf2-4-v{
+                    display: none;
+                    height: 100%;
+                    width: 100%;
+                    position: relative;
+                    top: 0px;
+                    left: 0px;
+                    background-color: rgba(0, 0, 0, 0.9);
+                }
+                .notes-pdf2-4-v-inner{
+                    width: 70%;
+                    height: 100%;
+                    position: relative;
+                    left: 15%;
+                    top: 0%;
+                    background-color: #d6d6d6;
+                }
+                .clg-notes3-4-v{
+                    position: relative;
+                    width: 140px;
+                    height: 150px;
+                    border-radius: 20px;
+                    grid-area: notes3-4;
+                }
+                .notes3-4-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    border-radius: 20px;
+                    top: 20px;
+                }
+                .list4-note3-link-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    border-radius: 20px;
+                }
+                .list4-note3-img-v{
+                    position: relative;
+                    height: 100px;
+                    width: 140px;
+                    border-top-right-radius: 20px;
+                    border-top-left-radius: 20px;
+                }
+                .embeded-list4-note3-v{
+                    position: relative;
+                    width: 140px;
+                    height: 50px;
+                    background-color: #006666;
+                    text-align: center;
+                    top: -25px;
+                    border-bottom-left-radius: 20px;
+                    border-bottom-right-radius: 20px;
+                }
+                .notes-pdf3-4-v{
+                    display: none;
+                    height: 100%;
+                    width: 100%;
+                    position: relative;
+                    top: 0px;
+                    left: 0px;
+                    background-color: rgba(0, 0, 0, 0.9);
+                }
+                .notes-pdf3-4-v-inner{
+                    width: 70%;
+                    height: 100%;
+                    position: relative;
+                    left: 15%;
+                    top: 0%;
+                    background-color: #d6d6d6;
+                }
+                .clg-notes4-4-v{
+                    position: relative;
+                    width: 140px;
+                    height: 150px;
+                    border-radius: 20px;
+                    grid-area: notes4-4;
+                }
+                .notes4-4-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    border-radius: 20px;
+                    top: 20px;
+                }
+                .list4-note4-link-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    border-radius: 20px;
+                }
+                .list4-note4-img-v{
+                    position: relative;
+                    height: 100px;
+                    width: 140px;
+                    border-top-right-radius: 20px;
+                    border-top-left-radius: 20px;
+                }
+                .embeded-list4-note4-v{
+                    position: relative;
+                    width: 140px;
+                    height: 50px;
+                    background-color: #006666;
+                    text-align: center;
+                    top: -25px;
+                    border-bottom-left-radius: 20px;
+                    border-bottom-right-radius: 20px;
+                }
+                .notes-pdf4-4-v{
+                    display: none;
+                    height: 100%;
+                    width: 100%;
+                    position: relative;
+                    top: 0px;
+                    left: 0px;
+                    background-color: rgba(0, 0, 0, 0.9);
+                }
+                .notes-pdf4-4-v-inner{
+                    width: 70%;
+                    height: 100%;
+                    position: relative;
+                    left: 15%;
+                    top: 0%;
+                    background-color: #e6e6e6;
+                }
+                .college-content-notes-5-v{
+                    position: relative;
+                    width: 100%;
+                    left: -5px;
+                    height: 340px;
+                    top: 95px;
+                }
+                .collge-notes-5-v{
+                    position: relative;
+                    width: 100%;
+                    height: inherit;
+                }
+                .college-notes-content-5-v{
+                    position: relative;
+                    width: 100%;
+                    height: inherit;
+                }
+                .notes-content-5-v{
+                    position: relative;
+                    width: 100%;
+                    height: inherit;
+                }
+                .notes-main-5-v{
+                    position: relative;
+                    width: 100%;
+                    height: inherit;
+                }
+                .notes-list-5-v{
+                    position: relative;
+                    width: 95%;
+                    height: 340px;
+                    display: grid;
+                    left: -19px;
+                    list-style: none;
+                    grid-gap: 20px;
+                    grid-template-areas:
+                    'notes1-4 notes2-4' 
+                    'notes3-4 notes4-4' ;
+                    background-color: inherit;
+                    grid-row-gap: 0px;
+                    grid-column-gap: 20px;
+                }
+                .clg-notes1-5-v{
+                    position: relative;
+                    width: 140px;
+                    height: 150px;
+                    border-radius: 20px;
+                    grid-area: notes1-4;
+                }
+                .notes1-5-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    border-radius: 20px;
+                    top: 20px;
+                }
+                .list5-general-v > a{
+                    display: inline;
+                }
+                .list5-note1-link-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    display: block;
+                    border-radius: 20px;
+                }
+                .list5-note1-img-v{
+                    position: relative;
+                    height: 100px;
+                    width: 140px;
+                    border-top-right-radius: 20px;
+                    border-top-left-radius: 20px;
+                }
+                .embeded-list5-note1-v{
+                    position: relative;
+                    width: 140px;
+                    height: 50px;
+                    background-color: #006666;
+                    text-align: center;
+                    top: -25px;
+                    border-bottom-left-radius: 20px;
+                    border-bottom-right-radius: 20px;
+                }
+                .notes-pdf1-5-v{
+                    display: none;
+                    height: 100%;
+                    width: 100%;
+                    position: relative;
+                    top: 0px;
+                    left: 0px;
+                    background-color: rgba(0, 0, 0, 0.9);
+                }
+                .notes-pdf1-5-v-inner{
+                    width: 70%;
+                    height: 100%;
+                    position: relative;
+                    left: 15%;
+                    top: 0%;
+                    background-color: #d6d6d6;
+                }
+                .clg-notes2-5-v{
+                    position: relative;
+                    width: 140px;
+                    height: 150px;
+                    border-radius: 20px;
+                    grid-area: notes2-4;
+                }
+                .notes2-5-v{
+                    position: relative;
+                    width: 140px;
+                    height: 150px;
+                    border-radius: 20px;
+                    top: 20px;
+                }
+                .list5-note2-link-v{
+                    position: relative;
+                    width: 140px;
+                    height: 150px;
+                    display: block;
+                    border-radius: 20px;
+                }
+                .list5-note2-img-v{
+                    position: relative;
+                    height: 100px;
+                    width: 140px;
+                    border-top-right-radius: 20px;
+                    border-top-left-radius: 20px;
+                }
+                .embeded-list5-note2-v{
+                    position: relative;
+                    width: 140px;
+                    height: 50px;
+                    background-color: #006666;
+                    text-align: center;
+                    top: -25px;
+                    border-bottom-left-radius: 20px;
+                    border-bottom-right-radius: 20px;
+                }
+                .notes-pdf2-5-v{
+                    display: none;
+                    height: 100%;
+                    width: 100%;
+                    position: relative;
+                    top: 0px;
+                    left: 0px;
+                    background-color: rgba(0, 0, 0, 0.9);
+                }
+                .notes-pdf2-5-v-inner{
+                    width: 70%;
+                    height: 100%;
+                    position: relative;
+                    left: 15%;
+                    top: 0%;
+                    background-color: #d6d6d6;
+                }
+                .clg-notes3-5-v{
+                    position: relative;
+                    width: 140px;
+                    height: 150px;
+                    border-radius: 20px;
+                    grid-area: notes3-4;
+                }
+                .notes3-5-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    border-radius: 20px;
+                    top: 20px;
+                }
+                .list5-note3-link-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    display: block;
+                    border-radius: 20px;
+                }
+                .list5-note3-img-v{
+                    position: relative;
+                    height: 100px;
+                    width: 140px;
+                    border-top-right-radius: 20px;
+                    border-top-left-radius: 20px;
+                }
+                .embeded-list5-note3-v{
+                    position: relative;
+                    width: 140px;
+                    height: 50px;
+                    background-color: #006666;
+                    text-align: center;
+                    top: -25px;
+                    border-bottom-left-radius: 20px;
+                    border-bottom-right-radius: 20px;
+                }
+                .notes-pdf3-5-v{
+                    display: none;
+                    height: 100%;
+                    width: 100%;
+                    position: relative;
+                    top: 0px;
+                    left: 0px;
+                    background-color: rgba(0, 0, 0, 0.9);
+                }
+                .notes-pdf3-5-v-inner{
+                    width: 70%;
+                    height: 100%;
+                    position: relative;
+                    left: 15%;
+                    top: 0%;
+                    background-color: #d6d6d6;
+                }
+                .clg-notes4-5-v{
+                    position: relative;
+                    width: 140px;
+                    height: 150px;
+                    border-radius: 20px;
+                    grid-area: notes4-4;
+                }
+                .notes4-5-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    border-radius: 20px;
+                    top: 20px;
+                }
+                .list5-note4-link-v{
+                    position: relative;
+                    width: 140px;
+                    height: 100%;
+                    display: block;
+                    border-radius: 20px;
+                }
+                .list5-note4-img-v{
+                    position: relative;
+                    height: 100px;
+                    width: 140px;
+                    border-top-right-radius: 20px;
+                    border-top-left-radius: 20px;
+                }
+                .embeded-list5-note4-v{
+                    position: relative;
+                    width: 140px;
+                    height: 50px;
+                    background-color: #006666;
+                    text-align: center;
+                    top: -25px;
+                    border-bottom-left-radius: 20px;
+                    border-bottom-right-radius: 20px;
+                }
+                .notes-pdf4-5-v{
+                    display: none;
+                    height: 100%;
+                    width: 100%;
+                    position: relative;
+                    top: 0px;
+                    left: 0px;
+                    background-color: rgba(0, 0, 0, 0.9);
+                }
+                .notes-pdf4-5-v-inner{
+                    width: 70%;
+                    height: 100%;
+                    position: relative;
+                    left: 15%;
+                    top: 0%;
+                    background-color: #d6d6d6;
+                }
+                .document-name-1-v{
+                    font-family: 'Comic Neue', cursive;
+                    font-size: 14px;
+                }
+                slash{
+                    display: none;
+                }
+            }
